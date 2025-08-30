@@ -15,7 +15,7 @@ Pentru că un bun control asupra minții tale înseamnă că vei lua decizii de�
 - cum reacționezi când ai parte de evenimente așteptate sau neașteptate 
 ## Cine sunt eu și de ce m-ai citi 
 
-Sunt Ștefan Beldie, psiholog clinician și psihoterapeut. 
+Sunt Ștefan Beldie, <a href="https://beldie.ro/psihoterapie-stefan-beldie/">psiholog clinician și psihoterapeut</a>.
 
 În ultimii ani, probabil ai constat pe propria piele ce-nseamnă să pierzi controlul interacțiunilor cu noile tehnologii - diverse dispozitive smart, servicii de streaming, social media etc.
 

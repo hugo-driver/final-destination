@@ -74,7 +74,7 @@ export const navigation = {
   subMenu: false
 };
 export const themeSwitch = {
-  title: 'Theme',
+  title: 'Temă',
   light: 'light',
   dark: 'dark'
 };
