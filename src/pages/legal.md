@@ -1,13 +1,12 @@
 ---
-title: Legal notice
+title: Contact
 discover:
-  title: Legal notice
-permalink: /imprint/index.html
-description: Imprint infos
+  title: Contact
+permalink: /contact/index.html
+description: Date de contact
 layout: page
 ---
 
-Edit your details in `_data/personal.yaml`
+Dacă dorești să-mi transmiți un mesaj, <a href="https://letterbird.co/stefan/">folosește acest formular de contact</a>.
 
 {{ personal.address }}
-{{ personal.email }}

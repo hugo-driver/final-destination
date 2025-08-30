@@ -19,12 +19,12 @@ export default {
       url: '/styleguide/'
     },
     {
-      text: 'Termeni și condiții',
-      url: '/imprint/'
+      text: 'Confindențialitate',
+      url: '/politica-de-confidentialitate/'
     },
     {
-      text: 'Confindențialitate',
-      url: '/privacy/'
+      text: 'Contact',
+      url: '/contact/'
     }
   ]
 };
