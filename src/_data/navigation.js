@@ -23,8 +23,8 @@ export default {
       url: '/politica-de-confidentialitate/'
     },
     {
-      text: 'Termeni și condiii',
-      url: '//termeni-si-conditii//'
+      text: 'Termeni și condiții',
+      url: '/termeni-si-conditii/'
     }
   ]
 };

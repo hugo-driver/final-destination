@@ -2,9 +2,12 @@
 title: Metoda Hard Reset - Cum să-ți resetezi viața și să o iei cu adevărat de la capăt
 permalink: /hard-reset/index.html
 description: 'O metodă simplă și eficientă cu ajutorul căreia poți reîncepe de la zero atunci când te-ai săturat de problemele cu care te confrunți.'
-image: '/assets/images/gallery/hard-reset.jpg'
-alt: 'Coperta ghidului Metoda Hard Reset'
+layout: page
 ---
+
+![Coperta ghidului Metoda Hard Reset](/assets/images/gallery/hard-reset.jpg)
+
+
 
 De câte ori ți s-a întâmplat să-ți propui ceva important și să ratezi obiectivul propus?
 
