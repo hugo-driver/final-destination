@@ -19,7 +19,7 @@ export default {
       url: '/politica-de-returnare-a-produselor/'
     },
     {
-      text: 'Confindențialitate',
+      text: 'Confidențialitate',
       url: '/politica-de-confidentialitate/'
     },
     {
