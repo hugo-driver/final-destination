@@ -38,7 +38,7 @@
     {
       "name": "Step 4",
       "min": 40,
-      "max": 55
+      "max": 54
     },
     {
       "name": "Step 5",
@@ -48,7 +48,7 @@
     {
       "name": "Step 6",
       "min": 56,
-      "max": 74
+      "max": 68
     }
   ]
 }
