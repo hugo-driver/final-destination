@@ -137,10 +137,9 @@ Acest tip de psihoterapie a fost dezvoltată pe baza principiilor din filosofia 
 
 Oricât de mândru aș fi eu de invenția mea, Hard Reset este major influențată atât de principiile unei filosofii super testate, cât și de o serie de elemente moderne de natură cognitiv - comportamentală super testate.
 
-Prin urmare, ia-ți ghidul de aplicare a metodei Hard Reset și treci la treabă:
+Prin urmare, ia-ți ghidul pentru aplicarea metodei Hard Reset și treci la treabă:
 
  <p style="text-align:center;">
       <a href="https://shop.beldie.ro/buy?link=OA5hM&ref=beldie.ro" class="button" data-button-variant="secondary">Ia-ți Metoda Hard Reset - 89 Euro</a>
       </p>
-
 
