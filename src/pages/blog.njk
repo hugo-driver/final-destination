@@ -9,12 +9,11 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber
 ---
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-secondary)">
-    <div class="section__inner flow region" style="--region-space-top: var(--space-xl-2xl)">
+  <header class="full | section" style="--spot-color: var(--color-primary)">
+    <div class="section__inner flow region">
       <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
     </div>
-
-    {% svg "divider/edgy", null, "divider" %}
+    {% svg "divider/waves", null, "divider" %}
   </header>
 
   <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl)">
