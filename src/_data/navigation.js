@@ -16,7 +16,7 @@ export default {
   bottom: [
     {
       text: 'Returnare produse',
-      url: '/styleguide/'
+      url: '/politica-de-returnare-a-produselor/'
     },
     {
       text: 'Confindențialitate',
