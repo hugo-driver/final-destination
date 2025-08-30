@@ -31,4 +31,6 @@ Poți începe să schimbi asta acum:
 
 Aboneză-te acum la newsletter-ul meu și treci la treabă:
 
-  <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">Vreau email-urile!</a>
+<p style="text-align:center;">
+      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">Vreau email-urile!</a>
+      </p>
