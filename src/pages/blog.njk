@@ -1,10 +1,10 @@
 ---
 layout: base
 title: Blog
-description: 'All blog posts can be found here'
+description: 'Texte scrise de Ștefan Beldie despre influența noilor tehnologii asupra minții tale'
 pagination:
   data: collections.allPosts
-  size: 8
+  size: 6
 permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html'
 ---
 
@@ -17,9 +17,8 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber
   </header>
 
   <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl)">
-    <p>This blog has a pagination of <strong>{{ pagination.size }}</strong> posts per page.<br>
-      The pagination is only shown if there are more posts ({{ collections.posts.length }}) than items per
-      page ({{ pagination.size }}).
+    <p>Aici găsești toate textele scrise de mine pe acest site.<br>
+      Când scriu ceva nou, afli instant dacă ești abonat prin email<a href="https://beldie.berserkermail.com/join?ref=beldie.ro">dacă ești abonat prin email</a>.
     </p>
   </div>
 
