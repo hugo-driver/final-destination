@@ -2,7 +2,7 @@ export const url = process.env.URL || 'http://localhost:8080';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
 export const siteName = 'Beldie.ro';
-export const siteDescription = 'Eleventy starter for building modern, resilient websites';
+export const siteDescription = 'Site-ul lui Ștefan Beldie despre influența tehnologiei asupra minții tale';
 export const siteType = 'Person'; // schema
 export const locale = 'ro_RO';
 export const lang = 'ro';
@@ -12,7 +12,7 @@ export const author = {
   avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
   email: 'stefan@beldie.ro', // i.e. hola@lenesaile.com - email of the author
   website: 'https://beldie.ro', // i.e. https.://www.lenesaile.com - the personal site of the author
-  fediverse: '@lene@front-end.social' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
+  twitter:    'stefan_beldie'
 };
 export const creator = {
   name: 'Ștefan Beldie', // i.e. Lene Saile - creator's (developer) name.
