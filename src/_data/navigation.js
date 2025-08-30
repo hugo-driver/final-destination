@@ -15,15 +15,15 @@ export default {
   ],
   bottom: [
     {
-      text: 'Style guide',
+      text: 'Returnare produse',
       url: '/styleguide/'
     },
     {
-      text: 'Imprint',
+      text: 'Termeni și condiții',
       url: '/imprint/'
     },
     {
-      text: 'Privacy',
+      text: 'Confindențialitate',
       url: '/privacy/'
     }
   ]
