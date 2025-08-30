@@ -1,7 +1,7 @@
 export default {
   top: [
     {
-      text: 'About',
+      text: 'Despre',
       url: '/about/'
     },
     {
@@ -9,7 +9,7 @@ export default {
       url: '/get-started/'
     },
     {
-      text: 'Built with',
+      text: 'Ghiduri',
       url: '/built-with/'
     },
     {
