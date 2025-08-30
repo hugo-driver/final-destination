@@ -10,7 +10,7 @@ export default {
     },
      {
       text: 'Ghiduri',
-      url: '/built-with/'
+      url: '/ghidurile/'
     }
   ],
   bottom: [
