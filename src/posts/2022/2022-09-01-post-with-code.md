@@ -1,5 +1,5 @@
 ---
-title: 'Post with some code'
+title: 'Post with code'
 description: 'Syntax Highlighting is achieved by a pack of Eleventy plugins. No browser/client JavaScript, highlight transformations are all done at build-time.'
 date: 2022-09-01
 tags: ['syntax highlighting', 'feature']
