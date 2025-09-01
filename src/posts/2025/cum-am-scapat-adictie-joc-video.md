@@ -2,7 +2,7 @@
 title: 'Povestea adicției mele pentru un joc video'
 description: 'Cum am scăpat de adicția pentru un joc video și care este cea mai bună soluție ca să reușești și tu.'
 permalink: "/cum-am-scapat-adictie-joc-video/"
-Data: 2022-09-09
+Date: 09-09-2022
 ---
 
 Am jucat prima dată spre finalul clasei a VII-a.
