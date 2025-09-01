@@ -7,8 +7,6 @@ date: 2022-09-09
 
 Am jucat prima dată spre finalul clasei a VII-a.
 
-
-
 După standardele de astăzi, aș zice c-am făcut-o târziu. Am văzut părinți chinuindu-se să smulgă telefoane sau console de gaming din mâinile unor copii de 2-3 ani.
 
 Mai mult, jocul despre care vorebsc eu - Street Fighter II - era unul de-a dreptul primitiv din perspectiva dinamicii și al graficei comparativ cu minunile actuale.
@@ -35,14 +33,14 @@ Omul venea grăbit, eu îi dădeam banii și el introducea fisa.
 
 Din acel moment, nu mă mai interesa nimic.
 
-3 lucruri demne de menționat:
+### 3 lucruri demne de menționat:
 
  * zilnic făceam rost de bani să joc. Asta presupunea că epuizasem de multă vreme economiile mele și trecusem la cele ale părinților. Fără știrea lor.
  * eram nerăbdător să joc și mă enerva să găsesc aparatul ocupat de vreun "netalentat" sau să-l văd pe nea George că se mișcă în reluare
  * când jucam, nu mai știam nimic din ceea ce se întâmpla în jur. Absolut nimic. Dacă doi clienți de la păcănele s-ar fi înjunghiat, venea poliția și pleca de acolo fără ca eu să mă opresc din jucat.
 
 
-BEL vs ALX
+## BEL vs ALX
 
 Am învățat să joc alături de un foarte bun prieten din gimnaziu, Alexandru.
 
@@ -60,14 +58,14 @@ Bine, același lucru îl făcea și el, adică la rândul meu trăiam umilința 
 
 Noaptea, după ce închideam ochii pentru a dormi, repetam în minte scene prelungi de luptă. Aș fi putut să desenez în imaginație partide întregi fără niciun fel de problemă, dar n-aș fi fost în stare să spun unde-mi lăsasem echipamentul după ora de sport.
 
-3 lucruri demne de menționat:
+## 3 lucruri demne de menționat:
 
  * pentru că nu exista YouTube sau altă sursă care să-ți dezvăluie cum se execută diverse mișcări sau lovituri, trăiam plăcerea anticipării unor descoperiri epocale din acest puct de vedere.
  * am ajuns să joc acest joc prin intermediul unui prieten. Relația cu acesta a făcut și mai facilă apropierea de această activiatea. Rivalitatea și prietenia au fost un liant între mine și joc. Aproape clasic pentru adicții.
  * jocul devenise mai important decât școala. Nu c-ar fi fost greu având în vedere lipsa mea de pasiunea mea pentru chestiunile academice. Totuși, până atunci, aveam câteva absențe pe semestru, plasate strategic. Acum, lipseam frecvent măcar de la prima oră.
 
 
-Ultima luptă
+## Ultima luptă
 
 La un moment dat, sala s-a închis și accesul la joc a dispărut.
 
@@ -91,14 +89,14 @@ Nu, spun doar că am trăit în acea zi plăcerea ca BEL să fie trecut din nou 
 
 Şi ar fi fost chiar o bucurie completă dacă aș fi avut atunci numărul lui ALX. Să-l sun și să apropii telefonul de joc pentru a auzi unul dintre cele mai plăcute sunete auzite de urechile noastre în timpul adolescenței.
 
-3 lucruri demne de menționat:
+### 3 lucruri demne de menționat:
 
  * faptul că nu i-am simțit lipsa jocului s-a datorat unei condiții speciale - sala s-a închis, iar un astfel de joc nu mai exista în universul meu - Rm. Sărat, Buzău și o vizită anuală la București pentru un meci de fotbal.
  * pe de altă parte, am continuat să mă gândesc la acel joc ori de câte ori ajungeam în locuri în care l-aș fi putut găsi. Deja, tehnologia evoluase, iar probabilitatea de-a-l vedea undeva scădea cu fiecare an care trecea. Și totuși, în creierul meu, jocul își făcuse propriul loc.
  * când l-am găsit, abilitatea de-a-l juca și plăcerea care însoțea fiecare partidă au reapărut de parcă nu lipsiseră niciodată. Inclusiv nostalgia rivalității cu ALX a apărut instant, deși trecuseră ani buni de la ultima noastră dispută.
 
 
-De ce ți-am povestit toate aceste lucruri
+## De ce ți-am povestit toate aceste lucruri
 
 Pentru că am fost suficient de norocos să mă confrunt cu o adicție pentru jocuri video în niște vremuri în care această industrie nu ajunsese la sofisticarea de astăzi.
 
@@ -118,8 +116,7 @@ De asemenea, am vrut să-ți atrag atenția la semnele care arată când relați
 
 De multe ori, o problemă gravă legată de jocurile video.
 
-
-Cum poți să scapi de adicția pentru jocurile video
+## Cum poți să scapi de adicția pentru jocurile video
 
 Am o veste bună și una proastă legate de adicția pentru jocurile video și legate de majoritatea adicțiilor clasice pentru lumea în care trăim.
 
@@ -159,8 +156,7 @@ Majoritatea oamenilor au nevoie de aceste 30 de zile pentru a-și reveni, dar po
 
 Oricum ar fi, respectivii sunt o excepție de la regulă.
 
-
-Când ar trebui să mergi în terapie pentru a scăpa de adicția pentru jocurile video
+## Când ar trebui să mergi în terapie pentru a scăpa de adicția pentru jocurile video
 
 În ziua astăzi, ideea de-a merge la psiholog pentru a scăpa de o adicție precum cea pentru jocurile video este o alegere destul de populară.
 
