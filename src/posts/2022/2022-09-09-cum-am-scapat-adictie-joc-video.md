@@ -1,7 +1,6 @@
 ---
 title: 'Povestea adicției mele pentru un joc video'
 description: 'Cum am scăpat de adicția pentru un joc video și care este cea mai bună soluție ca să reușești și tu.'
-slug: /cum-am-scapat-adictie-joc-video/index.html
 date: 2022-09-09
 ---
 
