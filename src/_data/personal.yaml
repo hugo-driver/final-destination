@@ -3,9 +3,3 @@ address: |-
   Chutzpah SRL
   Splaiul Unirii 165
   030133, București
-
-platforms:
-  github: 'https://github.com/madrilene/eleventy-excellent'
-  mastodon: 'https://front-end.social/@lene'
-  bluesky: 'https://bsky.app/profile/lenesaile.com'
-  kofi: 'https://ko-fi.com/lenesaile'
