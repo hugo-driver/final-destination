@@ -25,7 +25,7 @@ export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light 
 export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
 export const opengraph_default = '/assets/images/template/opengraph-default.jpg'; // fallback/default meta image
 export const opengraph_default_alt =
-  "Visible content: An Eleventy starter with CUBE CSS, Cube CSS, Every Layout, Design Tokens and Tailwind for uitility classes. A workflow for building modern and resilient websites, introduced by Andy Bell's project buildexcellentwebsit.es"; // alt text for default meta image"
+  "Site-ul lui Ștefan Beldie despre influența tehnologiei asupra minții tale"; // alt text for default meta image"
 export const blog = {
   // RSS feed
   name: 'Ștefan Beldie - Pixel vs Neuron',
@@ -87,10 +87,3 @@ export const greenweb = {
     }
   ],
   services: [{domain: 'netlify.com', serviceType: 'cdn'}]
-};
-export const viewRepo = {
-  // this is for the view/edit on github link. The value in the package.json will be pulled in.
-  allow: true,
-  infoText: 'View this page on GitHub'
-};
-export const easteregg = true;
