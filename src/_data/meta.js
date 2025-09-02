@@ -87,3 +87,10 @@ export const greenweb = {
     }
   ],
   services: [{domain: 'netlify.com', serviceType: 'cdn'}]
+};
+export const viewRepo = {
+  // this is for the view/edit on github link. The value in the package.json will be pulled in.
+  allow: false,
+  infoText: 'View this page on GitHub'
+};
+export const easteregg = true;
