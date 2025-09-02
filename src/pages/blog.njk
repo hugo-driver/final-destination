@@ -1,23 +1,26 @@
 ---
 layout: base
 title: Blog
-description: 'Texte scrise de Ștefan Beldie despre influența noilor tehnologii asupra minții tale'
+description: 'All blog posts can be found here'
 pagination:
   data: collections.allPosts
-  size: 6
+  size: 8
 permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html'
 ---
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-primary)">
-    <div class="section__inner flow region">
+  <header class="full | section" style="--spot-color: var(--color-secondary)">
+    <div class="section__inner flow region" style="--region-space-top: var(--space-xl-2xl)">
       <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
     </div>
-    {% svg "divider/waves", null, "divider" %}
+
+    {% svg "divider/edgy", null, "divider" %}
   </header>
 
   <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl)">
-    <p>Aici găsești toate textele scrise de mine pe acest site. Când scriu ceva nou, afli instant <a href="https://beldie.berserkermail.com/join?ref=beldie.ro"><strong>dacă ești abonat prin email</strong></a>.
+    <p>This blog has a pagination of <strong>{{ pagination.size }}</strong> posts per page.<br>
+      The pagination is only shown if there are more posts ({{ collections.posts.length }}) than items per
+      page ({{ pagination.size }}).
     </p>
   </div>
 
