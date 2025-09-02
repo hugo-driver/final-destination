@@ -4,4 +4,7 @@ import dayjs from 'dayjs';
 export const toISOString = dateString => dayjs(dateString).toISOString();
 
 /** Formats a date using dayjs's conventions: https://day.js.org/docs/en/display/format */
-export const formatDate = (date, format) => dayjs(date).format(format);
+export const formatDate = (date, format) => dayjs('2019-01-25').format('DD/MM/YYYY') // '25/01/2019'
+
+
+
