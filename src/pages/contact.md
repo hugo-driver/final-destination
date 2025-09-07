@@ -2,7 +2,7 @@
 title: Contact
 discover:
   title: Contact
-permalink: /contact/index.html
+permalink: /contact/
 description: Date de contact
 layout: page
 ---

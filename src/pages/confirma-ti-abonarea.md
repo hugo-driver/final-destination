@@ -1,6 +1,6 @@
 ---
 title: Trebuie să confirmi abonarea ca să devină activă
-permalink: /sigur-vrei-sa-te-abonezi/index.html
+permalink: /sigur-vrei-sa-te-abonezi/
 description: 'Pagina de confirmare a abonării pe beldie.ro.'
 layout: page
 eleventyExcludeFromCollections: true

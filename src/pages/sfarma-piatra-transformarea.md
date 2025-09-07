@@ -1,6 +1,6 @@
 ---
 title: Sfarmă Piatră - Transformarea
-permalink: /sfarma-piatra-transformarea/index.html
+permalink: /sfarma-piatra-transformarea/
 description: 'Ghidul care te salvează de la statul de loser și te împinge zdravăn pe calea cea dreaptă.'
 layout: page
 ---

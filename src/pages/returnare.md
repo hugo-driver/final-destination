@@ -1,6 +1,6 @@
 ---
 title: Returnare produse 
-permalink: /politica-de-returnare-a-produselor/index.html
+permalink: /politica-de-returnare-a-produselor/
 description: 'Politica de returnare a produselor achiziționate pe site-ul beldie.ro.'
 layout: page
 ---

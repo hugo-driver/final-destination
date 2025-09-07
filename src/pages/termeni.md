@@ -1,6 +1,6 @@
 ---
 title: Termeni și condiții
-permalink: /termeni-si-conditii/index.html
+permalink: /termeni-si-conditii/
 description: 'Termenii și condițiile de utilizare pentru site-ul beldie.ro.'
 layout: page
 eleventyExcludeFromCollections: true

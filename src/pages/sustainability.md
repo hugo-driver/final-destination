@@ -3,7 +3,7 @@ title: Sustainability
 layout: page
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
-permalink: /sustainability/index.html
+permalink: /sustainability/
 ---
 
 **Carbon Footprint**: This Website has a A+ Carbon Rating. [View full analysis on websitecarbon.com](https://www.websitecarbon.com/website/eleventy-excellent-netlify-app/)

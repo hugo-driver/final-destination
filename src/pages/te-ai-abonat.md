@@ -1,6 +1,6 @@
 ---
 title: Tocmai te-ai abonat
-permalink: /te-ai-abonat/index.html
+permalink: /te-ai-abonat/
 description: 'Pagina de confirmare a abonării pe beldie.ro.'
 layout: page
 eleventyExcludeFromCollections: true

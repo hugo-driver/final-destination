@@ -2,7 +2,7 @@
 title: Politică de Confidențialitate
 discover:
   title: Politică de Confidențialitate
-permalink: /politica-de-confidentialitate/index.html
+permalink: /politica-de-confidentialitate/
 description: 'Tot ce scrie aici este o obligație legală pe care o îndeplinesc cu toată inima. Site-ul acesta nu are ca scop încălcarea drepturilor tale.'
 layout: page
 eleventyExcludeFromCollections: true

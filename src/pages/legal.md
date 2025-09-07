@@ -2,7 +2,7 @@
 title: Legal notice
 discover:
   title: Legal notice
-permalink: /imprint/index.html
+permalink: /imprint/
 description: Imprint infos
 layout: page
 eleventyExcludeFromCollections: true
