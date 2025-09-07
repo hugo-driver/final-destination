@@ -1,6 +1,6 @@
 ---
 title: Metoda Hard Reset - Cum să-ți resetezi viața și să o iei cu adevărat de la capăt
-permalink: /hard-reset/index.html
+permalink: /hard-reset/
 description: 'O metodă simplă și eficientă cu ajutorul căreia poți reîncepe de la zero atunci când te-ai săturat de problemele cu care te confrunți.'
 layout: page
 ---

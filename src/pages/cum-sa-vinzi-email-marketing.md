@@ -1,6 +1,6 @@
 ---
 title: Cum să vinzi prin Email Marketing
-permalink: /cum-sa-vinzi-email-marketing/index.html
+permalink: /cum-sa-vinzi-email-marketing/
 description: 'Ghidul Un mail pe zi te învață cum să vinzi prin Email Marketing - cele mai bune tehnici de vânzare a produselor digitale sau a celor fizice.'
 layout: page
 ---

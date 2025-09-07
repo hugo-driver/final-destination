@@ -1,6 +1,6 @@
 ---
 title: Cum te ajută acest site 
-permalink: /about/index.html
+permalink: /about/
 description: 'Site-ul lui Ștefan Beldie despre impactul noilor tehnologii asupra minții tale.'
 layout: page
 ---

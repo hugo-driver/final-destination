@@ -1,6 +1,6 @@
 ---
 title: Corp de Animal - Cum să slăbești cu ajutorul unei diete gândite de Natură
-permalink: /corp-de-animal-ghid-de-nutritie-paleo/index.html
+permalink: /corp-de-animal-ghid-de-nutritie-paleo/
 description: 'Dacă te-ai săturat să fii gras și să nu te poți abține când vine vorba de mâncat mâncăruri care te-ngrașă, e timpul să treci la o dietă Paleo.'
 layout: page
 ---
