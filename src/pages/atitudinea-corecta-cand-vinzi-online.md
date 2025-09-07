@@ -1,6 +1,6 @@
 ---
 title: Atitudinea corectă când îți vinzi cunoașterea online
-permalink: /atitudinea-corecta-cand-vinzi-online/index.html
+permalink: /atitudinea-corecta-cand-vinzi-online/
 description: 'Să vinzi ceva online poate fi ușor dacă știi cum să abordezi această încercare.'
 layout: page
 eleventyExcludeFromCollections: true

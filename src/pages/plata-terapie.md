@@ -1,6 +1,6 @@
 ---
 title: Plată ședință psihoterapie 
-permalink: /plata-terapie/index.html
+permalink: /plata-terapie/
 description: 'Pagina de plată a ședințelor de psihoterapie susținute de Ștefan Beldie'
 layout: page
 ---

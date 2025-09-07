@@ -1,6 +1,6 @@
 ---
 title: Metoda de evadare din lumea adicțiilor Social Media
-permalink: /cum-omori-social-media-zombie-smz/
+permalink: /cum-omori-social-media-zombie-smz/index.html
 description: 'Ghidul care te ajută să evadezi din lumea adicțiilor online - Facebook, Instagram, TikTok, YouTube, Netflix etc.'
 layout: page
 ---
