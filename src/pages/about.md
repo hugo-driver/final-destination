@@ -1,23 +1,36 @@
 ---
-title: About
+title: Cum te ajută acest site 
 permalink: /about/index.html
-description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
+description: 'Site-ul lui Ștefan Beldie despre impactul noilor tehnologii asupra minții tale.'
 layout: page
 ---
+<strong>Pixel vs Neuron</strong> este un newsletter scris pentru cei care vor să aibă un control mai bun asupra propriei minți. 
 
-This starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template.
+De ce ai avea nevoie de așa ceva? 
 
-It is built around the CSS boilerplate by Andy Bell and inspired by Andy's talk **'Be the browser’s mentor, not its micromanager'**.
+Pentru că un bun control asupra minții tale înseamnă că vei lua decizii deștepte în situații importante: 
 
-If you want to know exactly how it all works, [read this article on piccalil.li](https://piccalil.li/blog/a-css-project-boilerplate/).
+- cum îți trăiești viața 
+- cum interacționezi cu ceilalți 
+- cum reacționezi când ai parte de evenimente așteptate sau neașteptate 
+## Cine sunt eu și de ce m-ai citi 
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+Sunt Ștefan Beldie, <a href="https://beldie.ro/psihoterapie-stefan-beldie/">psiholog clinician și psihoterapeut</a>.
 
-- buildexcellentwebsit.es
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-- Study the [original CSS boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate/tree/main)
+În ultimii ani, probabil ai constat pe propria piele ce-nseamnă să pierzi controlul interacțiunilor cu noile tehnologii - diverse dispozitive smart, servicii de streaming, social media etc.
 
-## Watch the talk
+Soluția nu este să privești smartphone-ul sau aplicațiile de social media ca pe niște dușmani absoluți împotriva cărora ar trebui să lupți cu toate puterile tale. Soluția este în primul rând să recunoști Problema. 
 
-<div><custom-youtube @slug="JqnMI1AXl6w" @label="Andy Bell – Be the browser’s mentor, not its micromanager"> </custom-youtube></div>
+Iar Problema este că foarte mulți oameni sunt stăpâniți, controlați și folosiți de către noile tehnologii precum niște sclavi moderni care își vând libertatea pentru diverse  forme de plăcere virtuală. 
 
+Poți începe să schimbi asta acum:
+
+- oprește-te din a mai pierde bucăți din viața reală și a te întreba ulterior pe unde a trecut timpul tău. 
+- oprește-te din a-ți mai pierde din capacitatea de-a te concentra la lucrurile importante din viața ta.
+- oprește-te din a-ți mai irosi energia și atenția cu acțiuni care nu te duc nicăieri, chiar din contră. 
+
+Aboneză-te acum la newsletter-ul meu și treci la treabă:
+
+<p style="text-align:center;">
+      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">Vreau email-urile!</a>
+      </p>
