@@ -6,7 +6,7 @@ date: 2022-12-30
 tags: ['psihomarketing']
 ---
 
-![Poți vinde o informație sub forma de produs digital chiar dacă acea informație este "gratis pe net"](/assets/images/gallery/nu-conteaza-ca-o-informatie-este-gratis-pe-net-o-poti-vinde-oricum.jpg)
+![Poți vinde o informație sub forma de produs digital chiar dacă acea informație este gratis pe net](/assets/images/gallery/vinde-oricum.jpg)
 
 Atunci când te gândești să lansezi [primul tău produs digital](https://beldie.ro/cum-lansezi-produs-digital/), te vei confrunta cu tot felul de dușmani.
 

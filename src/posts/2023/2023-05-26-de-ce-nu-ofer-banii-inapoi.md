@@ -6,7 +6,7 @@ date: 2023-05-26
 tags: ['psihomarketing']
 ---
 
-![De ce nu ofer garanții din categoria "banii înapoi dacă nu ești mulțumit"](/assets/images/gallery/de-ce-nu-ofer-refund-banii-inapoi.jpg)
+![De ce nu ofer garanții din categoria banii înapoi dacă nu ești mulțumit](/assets/images/gallery/de-ce-nu-ofer-refund.jpg){ width="650" height="365" loading="lazy" decoding="async" }
 
 Știi povestea clasică: "Poți returna produsul în 30 de zile".
 
