@@ -3,6 +3,8 @@ title: Termeni și condiții
 permalink: /termeni-si-conditii/index.html
 description: 'Termenii și condițiile de utilizare pentru site-ul beldie.ro.'
 layout: page
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
 ---
 
 

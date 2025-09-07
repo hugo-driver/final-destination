@@ -1,15 +1,43 @@
 [
   {
-    "name": "Metoda Hard Reset",
+    "name": "Metoda Hard Reset - 89 Euro",
     "description": "Cum să-ți resetezi viața cu ajutorul unei metode pe care o folosesc inclusiv în lucrul cu clienții din psihoterapie.",
     "filename": "hardreset",
     "link": "https://beldie.ro/hard-reset/"
   },
+  
+    {
+    "name": "Cum să omori un Social Media Zombie - 49 Euro",
+    "description": "Ghidul care te ajută să evadezi din lumea adicțiilor online - Facebook, Instagram, TikTok, YouTube, Netflix etc.",
+    "filename": "smz",
+    "link": "https://beldie.ro/cum-omori-social-media-zombie-smz/"
+  },
+
   {
-    "name": "construccionescarrascosa.com",
-    "description": "Construction company based in Cuenca, Spain",
-    "filename": "construccionescarrascosa",
-    "link": "https://construccionescarrascosa.com",
-    "builtbylene": true
+    "name": "Lista cu mâncare bună - 79 Euro",
+    "description": "Lista cu mâncare bună este o listă a celor mai buni producători și a celor mai bune produse alimentare în opinia mea. Lista se updatează.",
+    "filename": "listacumancarebuna",
+    "link": "https://beldie.ro/lista-cu-mancare-buna/"
+  },
+
+  {
+    "name": "Lista lui Beldie - 49 Euro",
+    "description": "Singura listă de servicii și produse folosite de Ștefan Beldie. Ca să știi ce-mi place mie, dar și ce probabil merită să-ți iei și tu dacă ai nevoie de așa ceva.",
+    "filename": "listaluibeldie",
+    "link": "https://beldie.ro/lista-lui-beldie/"
+  },
+
+    {
+    "name": "Un mail pe zi - 97 Euro",
+    "description": "Ghidul Un mail pe zi te învață cum să vinzi prin Email Marketing - cele mai bune tehnici de vânzare a produselor digitale sau a celor fizice.",
+    "filename": "unmailpezi",
+    "link": "https://beldie.ro/cum-sa-vinzi-email-marketing/"
+  },
+
+  {
+    "name": "Corp de Animal - 21 Euro",
+    "description": "Dacă te-ai săturat să fii gras și să nu te poți abține când vine vorba de mâncat mâncăruri care te-ngrașă, e timpul să treci la o dietă Paleo",
+    "filename": "corpdeanimal",
+    "link": "https://beldie.ro/corp-de-animal-ghid-de-nutritie-paleo/"
   }
 ]

@@ -7,8 +7,6 @@ layout: page
 
 ![Coperta ghidului Metoda Hard Reset](/assets/images/gallery/hard-reset.jpg)
 
-
-
 De câte ori ți s-a întâmplat să-ți propui ceva important și să ratezi obiectivul propus?
 
 De câte ori, la începutul anului, ai luat decizia să schimbi anumite lucruri și ai constatat după câteva zile sau câteva săptămâni că te-ai întors în același punct ca la început?
