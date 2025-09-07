@@ -5,6 +5,8 @@ description: 'Tot ce trebuie să știi despre ședințele de psihoterapie cu Șt
 layout: page
 ---
 
+![Ședințe de psihoterapie cu Ștefan Beldie.](/assets/images/gallery/psihoterapie-cu-stefan-beldie.webp)
+
 Sunt psiholog și ofer servicii de psihoterapie în propriul cabinet.
 
 Sunt specializat în psihoterapie cognitiv comportamentală (CBT) și psihologie clinică, prin urmare poți lucra cu mine pentru rezolvarea unor probleme de natură psihologică / emoțională cu care te confrunți.
