@@ -5,6 +5,10 @@ export default {
       url: '/about/'
     },
     {
+      text: 'Psihoterapie',
+      url: '/psihoterapie-stefan-beldie/'
+    },
+    {
       text: 'Blog',
       url: '/blog/'
     },
