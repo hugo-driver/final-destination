@@ -30,8 +30,8 @@
 }
 
 .newsletter-form input[type="text"] {
-  flex: 2; /* Input mai lung pe desktop */
-  padding: 14px 30px; /* Mai mult padding pentru a accentua lungimea */
+  flex: 3; /* Input și mai lung pe desktop */
+  padding: 14px 40px; /* Padding mai mare pentru lățime vizibilă */
   border: 1px solid #e2e8f0;
   border-radius: 8px;
   font-size: 16px;
@@ -41,7 +41,7 @@
   background: #ffffff;
   font-family: 'Atkinson Hyperlegible', sans-serif;
   font-weight: 400;
-  min-width: 0; /* Asigură flexibilitate */
+  min-width: 0;
 }
 
 .newsletter-form input[type="text"]:focus {
@@ -60,7 +60,8 @@
   font-size: 16px;
   transition: background-color 0.3s ease, transform 0.2s ease;
   font-family: 'Atkinson Hyperlegible', sans-serif;
-  flex: 1; /* Butonul mai scurt pe desktop */
+  flex: 1; /* Buton mai scurt */
+  max-width: 150px; /* Limită maximă pentru buton */
 }
 
 .newsletter-form button:hover {
@@ -82,17 +83,18 @@
 
 @media (max-width: 600px) {
   .newsletter-form .input-group {
-    flex-direction: column; /* Butonul sub input pe mobil */
+    flex-direction: column; /* Buton sub input */
   }
   
   .newsletter-form input[type="text"] {
     width: 100%;
-    padding: 14px 40px; /* Mai mult padding pentru a face inputul mai lat */
+    padding: 14px 50px; /* Input mai lat pe mobil */
   }
   
   .newsletter-form button {
     width: 100%;
-    padding: 14px 20px; /* Padding constant pentru buton */
+    padding: 14px 20px; /* Buton mai scurt */
+    margin-top: 0.5rem; /* Spațiu între input și buton */
   }
 }
 </style>
