@@ -130,3 +130,5 @@ Această pagină de internet folosește fișiere de tip cookie. Pentru mai multe
     Abonează-te
   </button>
 </form>
+
+<div class="p-10 bg-red-500 text-white">Test Tailwind</div>
