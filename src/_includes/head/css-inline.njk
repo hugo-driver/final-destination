@@ -15,6 +15,10 @@
 /* Importă fontul Atkinson Hyperlegible */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400&display=swap');
 
+* {
+  box-sizing: border-box; /* Asigură că padding-ul și bordurile sunt incluse în lățime */
+}
+
 .newsletter-form {
   display: flex;
   flex-direction: column;
@@ -31,8 +35,8 @@
 }
 
 .newsletter-form input[type="text"] {
-  flex: 3;
-  padding: 14px 20px;
+  flex: 4; /* Mărire pe desktop pentru a fi mai lung */
+  padding: 14px 40px; /* Ajustare padding pentru a accentua lungimea */
   border: 1px solid #e2e8f0;
   border-radius: 8px;
   font-size: 16px;
@@ -91,18 +95,20 @@
   }
   
   .newsletter-form input[type="text"] {
-    width: 100%;
-    padding: 14px 20px;
+    width: 100% !important; /* Forță lățimea */
+    padding: 14px 40px; /* Mărire padding pentru a face inputul mai lung */
+    border: 1px solid #e2e8f0; /* Elimină bordura roșie, revenire la stil default */
     margin: 0;
   }
   
   .newsletter-form button {
-    width: 100%;
-    padding: 14px 20px;
+    width: 100% !important; /* Forță lățimea */
+    padding: 14px 10px; /* Reducere padding pentru a face butonul mai scurt */
     margin-top: 0.5rem;
-    margin: 0;
+    border: none; /* Elimină bordura verde, revenire la stil default */
     display: block;
-    min-width: 0;
+    min-width: 0 !important; /* Elimină orice min-width implicit */
+    margin: 0;
   }
 }
 </style>
