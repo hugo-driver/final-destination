@@ -108,25 +108,3 @@ Este posibil ca, în urma solicitării de ștergere a datelor, Chutzpah SRL să 
 Pentru orice întrebări suplimentare cu privire la modul în care datele cu caracter personal sunt prelucrate și pentru a-ți exercita drepturile menționate mai sus, va trebui să trimiți mesaj la adresa de email salut (@) chutzpah (.) ro  sau folosind <a href="https://letterbird.co/stefan/"> formularul de contact </a>.
 
 Această pagină de internet folosește fișiere de tip cookie. Pentru mai multe informații cu privire la modul în care se folosesc aceste fișiere, vă rugăm să accesați următorul link: <a href="https://beldie.ro/politica-privind-fisierele-cookies/"> Politică privind fișierele cookies</a>.
-
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/beldie"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/beldie', 'popupwindow')"
-  class="flex max-w-lg mx-auto gap-3 mt-8"
->
-  <input
-    type="email"
-    name="email"
-    required
-    placeholder="Introdu adresa ta de email"
-    class="flex-1 rounded-xl border border-gray-300 px-4 py-3 text-base focus:outline-none focus:ring-2 focus:ring-indigo-500"
-  />
-  <button
-    type="submit"
-    class="rounded-xl bg-indigo-600 px-6 py-3 font-semibold text-white shadow hover:bg-indigo-700 transition"
-  >
-    Abonează-te
-  </button>
-</form>
