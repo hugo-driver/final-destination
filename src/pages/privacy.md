@@ -110,17 +110,23 @@ Pentru orice întrebări suplimentare cu privire la modul în care datele cu car
 Această pagină de internet folosește fișiere de tip cookie. Pentru mai multe informații cu privire la modul în care se folosesc aceste fișiere, vă rugăm să accesați următorul link: <a href="https://beldie.ro/politica-privind-fisierele-cookies/"> Politică privind fișierele cookies</a>.
 
 <form
-  action="https://buttondown.com/api/emails/embed-subscribe/free-of-email"
+  action="https://buttondown.email/api/emails/embed-subscribe/beldie"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/free-of-email', 'popupwindow')"
-  class="embeddable-buttondown-form"
+  onsubmit="window.open('https://buttondown.email/beldie', 'popupwindow')"
+  class="flex max-w-lg mx-auto gap-3"
 >
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/free-of-email" target="_blank">Powered by Buttondown.</a>
-  </p>
+  <input
+    type="email"
+    name="email"
+    required
+    placeholder="Introdu adresa ta de email"
+    class="flex-1 rounded-xl border border-gray-300 px-4 py-3 text-base focus:outline-none focus:ring-2 focus:ring-indigo-500"
+  />
+  <button
+    type="submit"
+    class="rounded-xl bg-indigo-600 px-6 py-3 font-semibold text-white shadow hover:bg-indigo-700 transition"
+  >
+    Abonează-te
+  </button>
 </form>
