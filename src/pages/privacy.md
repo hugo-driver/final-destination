@@ -114,7 +114,7 @@ Această pagină de internet folosește fișiere de tip cookie. Pentru mai multe
   method="post"
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/beldie', 'popupwindow')"
-  class="flex max-w-lg mx-auto gap-3"
+  class="flex max-w-lg mx-auto gap-3 mt-8"
 >
   <input
     type="email"
@@ -130,5 +130,3 @@ Această pagină de internet folosește fișiere de tip cookie. Pentru mai multe
     Abonează-te
   </button>
 </form>
-
-<div class="p-10 bg-red-500 text-white">Test Tailwind</div>
