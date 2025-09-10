@@ -69,3 +69,7 @@ Iar dacă reușește, eu mă scald în piscine cu bani.
 Sau doar în piscine cu satisfacție.
 
 Dar când ies din apă, calc pe covoare de bani.
+
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
+
+{% include "partials/newsletter-form.njk" %}

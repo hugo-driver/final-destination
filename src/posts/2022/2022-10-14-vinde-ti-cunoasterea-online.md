@@ -161,6 +161,4 @@ Ce nu te sfătuiesc este să fii bleg și să crezi că succesul vine instant, f
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
-  <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

@@ -117,6 +117,4 @@ Mai mult, dacă acel “nu” produce o ruptură între tine și cel pe care-l r
 **Eu**: Pleacă, mă, de aici
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-  <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

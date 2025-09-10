@@ -142,7 +142,4 @@ Prin urmare, dacă nu vei fi dispus să plătești prețul unei plictiseli iniț
 Și nu vei putea să folosești tu tehnologia ca să-ți faci viața mai bună, [ci vei fi tu folosit de tehnologie iar și iar și iar](https://beldie.ro/cum-sa-evadezi-din-lumea-digitala/).
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-  <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

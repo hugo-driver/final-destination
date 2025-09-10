@@ -131,6 +131,4 @@ Exact ce-i spune și numele, să nu folosești tehnologia pentru chestiuni care 
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
-   <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

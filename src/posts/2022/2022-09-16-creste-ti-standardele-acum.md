@@ -144,6 +144,4 @@ Ia-o cu începutul și acordă toată atenția ta standardelor mărunte.
 Va conta mai mult decât crezi.
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
-  <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

@@ -100,6 +100,4 @@ Aproape metaforic vorbind, tot ce deții ocupă un loc în mintea ta. Și tot ce
 Prin urmare, nu strică să faci această curățenie și să fii mai selectiv pe viitor nu doar pentru securitatea / siguranța ta, ci și pentru mintea ta.
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
-  <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

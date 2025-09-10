@@ -19,6 +19,4 @@ Alegerea e la tine.
 
 **Sau te abonezi:**
 
-<p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">Vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

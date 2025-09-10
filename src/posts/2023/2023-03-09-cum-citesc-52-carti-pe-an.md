@@ -229,6 +229,4 @@ Nu vreau să-ți fur plăcerea de-a-ți imagina singur.
 Și, de asemenea, îți las plăcerea de-a verifica singur la ce duce un astfel de obicei - să recitești de multe ori cărțile care-ți sunt utile și măcar de câteva ori cărțile care ți-au plăcut.
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
-   <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+{% include "partials/newsletter-form.njk" %}

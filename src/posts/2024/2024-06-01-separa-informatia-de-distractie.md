@@ -110,6 +110,4 @@ Iar dacă ai Android / Windows sau vrei o interfață web, [Inoreader](https://w
 
 #### Alt lucru deștept pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
-   <p style="text-align:center;">
-      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
-      </p>
+ {% include "partials/newsletter-form.njk" %}

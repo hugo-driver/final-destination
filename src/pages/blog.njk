@@ -17,7 +17,8 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber
   </header>
 
   <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl)">
-    <p>Aici găsești toate textele scrise de mine pe acest site. Când scriu ceva nou, afli instant <a href="https://beldie.berserkermail.com/join?ref=beldie.ro"><strong>dacă ești abonat prin email</strong></a>.
+    <p>Aici găsești toate textele scrise de mine pe acest site. Când scriu ceva nou, afli instant dacă ești abonat prin email:
+    {% include "partials/newsletter-form.njk" %}
     </p>
   </div>
 
