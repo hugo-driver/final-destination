@@ -15,6 +15,10 @@
 /* Importă fontul Atkinson Hyperlegible */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400&display=swap');
 
+* {
+  box-sizing: border-box; /* Asigură că padding-ul și bordurile sunt incluse în lățime */
+}
+
 .newsletter-form {
   display: flex;
   flex-direction: column;
@@ -91,18 +95,20 @@
   }
   
   .newsletter-form input[type="text"] {
-    width: 100%;
+    width: 100% !important; /* Forță lățimea */
     padding: 14px 20px;
+    border: 2px dashed #ff0000; /* Marker vizual */
     margin: 0;
   }
   
   .newsletter-form button {
-    width: 100%;
+    width: 100% !important; /* Forță lățimea */
     padding: 14px 20px;
     margin-top: 0.5rem;
-    margin: 0;
+    border: 2px dashed #00ff00; /* Marker vizual */
     display: block;
-    min-width: 0;
+    min-width: 0 !important; /* Elimină orice min-width implicit */
+    margin: 0;
   }
 }
 </style>
