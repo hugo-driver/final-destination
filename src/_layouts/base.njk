@@ -29,7 +29,8 @@
     <!-- 5 CSS  -->
     <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
     {% include "head/css-inline.njk" %}
- /* Container general al formularului */
+<style>
+/* Container general al formularului */
 .newsletter-form {
   max-width: 700px; /* Mai lung pe desktop */
   margin: 0 auto;
@@ -90,6 +91,46 @@
     margin-top: 0.75rem;
   }
 }
+
+/* Adaugă aici stilurile pentru butoanele de temă, dacă nu le ai deja în global.css */
+.theme-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+.dark-btn, .light-btn {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  width: auto;
+  min-width: 80px;
+}
+
+.dark-btn:hover, .light-btn:hover {
+  background-color: #d0d0d0;
+}
+
+@media (max-width: 600px) {
+  .theme-buttons {
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.75rem;
+  }
+
+  .dark-btn, .light-btn {
+    min-width: 70px;
+    font-size: 0.9rem;
+    padding: 0.5rem 0.75rem;
+  }
+}
+</style>
 
 
     <!-- 6 preloads  -->
