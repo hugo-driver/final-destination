@@ -1,40 +1,19 @@
 <form
-  id="form"
-  action="https://api.berserkermail.com/contact/form"
+  action="https://buttondown.com/api/emails/embed-subscribe/free-of-email"
   method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/free-of-email', 'popupwindow')"
   class="newsletter-form"
 >
-  <!-- Pixel de tracking (obligatoriu pentru BerserkerMail) -->
-  <img alt="view pixel" src="https://api.berserkermail.com/form/pixel/68c165ab40664e6b29c33ded" />
-  
   <div class="input-group">
-    <!-- Input principal: adaptat cu aria-label și required -->
     <input
       type="email"
       name="email"
-      id="email"
       placeholder="Adresa ta de email"
       required
       aria-label="Adresa de email"
-      pattern="[a-zA-Z0-9.\-_]{1,}@[a-zA-Z0-9.\-_]{2,}[.]{1}[a-zA-Z]{2,}"
-      title="Te rugăm, introdu o adresă de email validă."
     />
-    
-    <!-- Honeypot hidden (anti-spam, obligatoriu) -->
-    <input
-      style="opacity: 0; position: absolute; top: 0; left: 0; height: 0; width: 0; z-index: -1;"
-      type="text"
-      name="username"
-      autocomplete="off"
-    />
-    
-    <!-- Form ID hidden (specific contului tău) -->
-    <input type="hidden" name="formId" id="formId" value="68c165ab40664e6b29c33ded" required />
-    
-    <!-- Buton submit -->
     <button type="submit">Abonare</button>
   </div>
-  
-  <!-- Mesaj pentru succes/eroare (opțional, dacă adaugi JS) -->
   <p class="form-message" id="form-message"></p>
 </form>
