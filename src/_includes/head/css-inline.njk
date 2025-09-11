@@ -1,5 +1,4 @@
-
-	{%- if eleventy.env.runMode === "serve" %}
+{%- if eleventy.env.runMode === "serve" %}
 		<!-- External CSS for local dev (refresh without page reload) -->
 		<link rel="stylesheet" href="{% getBundleFileUrl "css", "global" %}">
 		<link rel="stylesheet" href="{% getBundleFileUrl "css", "local" %}">
@@ -10,3 +9,86 @@
 	{%- endif %}
 
 	{% css "global" %}{% include "css/global.css" %}{% endcss %}
+<style>
+/* Importă fontul Atkinson Hyperlegible */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400&display=swap');
+
+.newsletter-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.newsletter-form .input-group {
+  display: flex;
+  gap: 0.75rem;
+  width: 100%;
+}
+
+.newsletter-form input[type="email"] {
+  flex: 3; /* Crește lungimea inputului (de 2 ori mai mare decât butonul) */
+  padding: 14px 20px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 20px;
+  line-height: 1.5;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  background: #ffffff;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-weight: 400;
+}
+
+.newsletter-form input[type="email"]:focus {
+  border-color: #4f46e5;
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+.newsletter-form button {
+  background: #4467dd;
+  color: white;
+  font-weight: 400;
+  padding: 14px 28px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 20px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  flex: 1; /* Butonul ocupă mai puțin spațiu decât inputul */
+}
+
+.newsletter-form button:hover {
+  background: #3754b5;
+  transform: translateY(-1px);
+}
+
+.newsletter-form button:active {
+  transform: translateY(0);
+}
+
+.newsletter-form .form-message {
+  margin-top: 0.75rem;
+  font-size: 14px;
+  color: #64748b;
+  text-align: center;
+  min-height: 20px;
+}
+
+@media (max-width: 600px) {
+  .newsletter-form .input-group {
+    flex-direction: column; /* Butonul sub input pe mobil */
+  }
+  
+  .newsletter-form input[type="email"] {
+    width: 100%;
+  }
+  
+  .newsletter-form button {
+    width: 100%;
+  }
+}
+</style>

@@ -27,78 +27,8 @@
     {% include "head/schema.njk" %}
 
     <!-- 5 CSS  -->
-    <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
+    <!-- <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" /> -->
     {% include "head/css-inline.njk" %}
-<style>
-/* Container general al formularului */
-.newsletter-form {
-  max-width: 700px; /* Dimensiune uniformă pe desktop */
-  margin: 0 auto;
-  padding: 0 1rem; /* Margini laterale constante */
-  width: 100%; /* Folosește tot spațiul disponibil în container */
-}
-
-/* Input group pe desktop: input + buton în linie */
-.input-group {
-  display: flex;
-  gap: 1rem; /* Distanță fixă și consistentă între input și buton */
-  justify-content: center; /* Centrează conținutul */
-  align-items: center; /* Aliniază vertical */
-}
-
-/* Stiluri pentru input */
-.input-group input[type="text"] {
-  flex: 1; /* Ocupă spațiul disponibil */
-  padding: 0.75rem;
-  font-size: 1rem; /* Dimensiune text uniformă */
-  border: 1px solid #ccc;
-  border-radius: 0.5rem;
-  max-width: 300px; /* Limitează lățimea maximă pe toate paginile */
-  width: 100%; /* Asigură consistență pe mobil */
-  box-sizing: border-box; /* Include padding în width */
-}
-
-/* Stiluri pentru buton */
-.input-group button {
-  padding: 0.75rem 1.5rem;
-  font-size: 1rem;
-  border: none;
-  border-radius: 0.5rem;
-  background-color: #0066cc;
-  color: white;
-  cursor: pointer;
-  transition: background-color 0.2s ease;
-  min-width: 120px; /* Dimensiune minimă fixă pentru buton */
-}
-
-.input-group button:hover {
-  background-color: #004a99;
-}
-
-/* Responsivitate pentru mobil */
-@media (max-width: 600px) {
-  .newsletter-form {
-    max-width: 100%; /* Folosește tot spațiul disponibil */
-  }
-
-  .input-group {
-    flex-direction: column;
-    gap: 0.75rem; /* Distanță mai mică pe mobil */
-    align-items: center;
-  }
-
-  .input-group input[type="text"] {
-    max-width: 100%; /* Umple containerul pe mobil */
-    width: 250px; /* Dimensiune fixă pe mobil */
-  }
-
-  .input-group button {
-    width: 150px; /* Buton mai mic pe mobil */
-    margin-top: 0;
-  }
-}
-</style>
-
 
     <!-- 6 preloads  -->
     {% include "head/preloads.njk" %}
@@ -108,7 +38,6 @@
 
     <!-- 8 meta tags, icons, open graph etc.  -->
     {% include "head/meta-info.njk" %}
-    <script src="https://cdn.usefathom.com/script.js" data-site="JGKLKOWZ" defer></script>
   </head>
 
   <body class="{{ layout }}">
