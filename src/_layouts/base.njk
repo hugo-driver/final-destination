@@ -27,8 +27,62 @@
     {% include "head/schema.njk" %}
 
     <!-- 5 CSS  -->
-    <!-- <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" /> -->
+    <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
     {% include "head/css-inline.njk" %}
+    <style>
+/* Container general al formularului */
+.newsletter-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* Input group pe desktop: input + buton în linie */
+.input-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.input-group input[type="text"] {
+  flex: 1; /* inputul ocupă spațiul disponibil */
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
+
+.input-group button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #0066cc;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.input-group button:hover {
+  background-color: #004a99;
+}
+
+/* 🔹 Responsivitate pentru mobil */
+@media (max-width: 600px) {
+  .input-group {
+    flex-direction: column;
+    align-items: center; /* centrează butonul */
+  }
+
+  .input-group input[type="text"] {
+    width: 100%;
+  }
+
+  .input-group button {
+    width: 80%; /* mai mic decât input-ul */
+    margin-top: 1rem;
+  }
+}
+</style>
+
 
     <!-- 6 preloads  -->
     {% include "head/preloads.njk" %}

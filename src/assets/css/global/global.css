@@ -16,3 +16,16 @@
 /* @import-glob 'tests/*.css' layer(test); */
 
 @import 'tailwindcss/utilities' layer(tailwindUtilities);
+
+@media (max-width: 600px) {
+  input[type="email"] {
+    width: 100% !important;
+    box-sizing: border-box;
+    display: block;
+  }
+  button {
+    width: 80% !important;
+    margin: 1rem auto 0 auto;
+    display: block;
+  }
+}
