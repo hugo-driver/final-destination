@@ -29,27 +29,31 @@
     <!-- 5 CSS  -->
     <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
     {% include "head/css-inline.njk" %}
-    <style>
-/* Container general al formularului */
+ /* Container general al formularului */
 .newsletter-form {
-  max-width: 500px;
+  max-width: 700px; /* Mai lung pe desktop */
   margin: 0 auto;
+  padding: 0 1rem; /* Margini laterale pentru spațiu */
 }
 
 /* Input group pe desktop: input + buton în linie */
 .input-group {
   display: flex;
   gap: 0.5rem;
+  justify-content: center; /* Centrează conținutul */
 }
 
+/* Stiluri pentru input */
 .input-group input[type="text"] {
-  flex: 1; /* inputul ocupă spațiul disponibil */
+  flex: 1; /* Ocupă spațiul disponibil */
   padding: 0.75rem;
   font-size: 1rem;
   border: 1px solid #ccc;
   border-radius: 0.5rem;
+  max-width: 600px; /* Limitează lățimea maximă pe desktop */
 }
 
+/* Stiluri pentru buton */
 .input-group button {
   padding: 0.75rem 1.5rem;
   font-size: 1rem;
@@ -65,23 +69,27 @@
   background-color: #004a99;
 }
 
-/* 🔹 Responsivitate pentru mobil */
+/* Responsivitate pentru mobil */
 @media (max-width: 600px) {
+  .newsletter-form {
+    max-width: 100%; /* Folosește tot spațiul disponibil */
+  }
+
   .input-group {
     flex-direction: column;
-    align-items: center; /* centrează butonul */
+    align-items: center; /* Centrează input și buton */
   }
 
   .input-group input[type="text"] {
     width: 100%;
+    max-width: 300px; /* Input mai mic pe mobil */
   }
 
   .input-group button {
-    width: 80%; /* mai mic decât input-ul */
-    margin-top: 1rem;
+    width: 200px; /* Buton mai mic decât input-ul */
+    margin-top: 0.75rem;
   }
 }
-</style>
 
 
     <!-- 6 preloads  -->

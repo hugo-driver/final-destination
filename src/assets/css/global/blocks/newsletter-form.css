@@ -1,0 +1,49 @@
+.newsletter-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.input-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.input-group input[type="text"] {
+  flex: 1;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
+
+.input-group button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #0066cc;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.input-group button:hover {
+  background-color: #004a99;
+}
+
+/* 🔹 Responsivitate */
+@media (max-width: 600px) {
+  .input-group {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .input-group input[type="text"] {
+    width: 100%;
+  }
+
+  .input-group button {
+    width: 80%;
+    margin-top: 1rem;
+  }
+}
