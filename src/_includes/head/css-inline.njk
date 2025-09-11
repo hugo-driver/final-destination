@@ -26,10 +26,11 @@
   display: flex;
   gap: 0.75rem;
   width: 100%;
+  position: relative; /* Pentru honeypot absolut positioned */
 }
 
 .newsletter-form input[type="email"] {
-  flex: 3; /* Crește lungimea inputului (de 2 ori mai mare decât butonul) */
+  flex: 3; /* Input mai lung pe desktop */
   padding: 14px 20px;
   border: 1px solid #e2e8f0;
   border-radius: 8px;
@@ -40,6 +41,7 @@
   background: #ffffff;
   font-family: 'Atkinson Hyperlegible', sans-serif;
   font-weight: 400;
+  box-sizing: border-box; /* Include padding în width */
 }
 
 .newsletter-form input[type="email"]:focus {
@@ -58,7 +60,7 @@
   font-size: 20px;
   transition: background-color 0.3s ease, transform 0.2s ease;
   font-family: 'Atkinson Hyperlegible', sans-serif;
-  flex: 1; /* Butonul ocupă mai puțin spațiu decât inputul */
+  flex: 1; /* Buton compact */
 }
 
 .newsletter-form button:hover {
@@ -78,13 +80,19 @@
   min-height: 20px;
 }
 
+/* Asigură că pixel-ul și honeypot-ul sunt invizibile */
+.newsletter-form img[alt="view pixel"] {
+  display: none; /* Sau height: 1px; width: 1px; pentru tracking discret */
+}
+
 @media (max-width: 600px) {
   .newsletter-form .input-group {
-    flex-direction: column; /* Butonul sub input pe mobil */
+    flex-direction: column; /* Stivuire pe mobil */
   }
   
   .newsletter-form input[type="email"] {
     width: 100%;
+    max-width: 300px; /* Mai mic pe mobil */
   }
   
   .newsletter-form button {
