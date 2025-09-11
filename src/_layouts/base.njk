@@ -32,26 +32,30 @@
 <style>
 /* Container general al formularului */
 .newsletter-form {
-  max-width: 700px; /* Mai lung pe desktop */
+  max-width: 700px; /* Dimensiune uniformă pe desktop */
   margin: 0 auto;
-  padding: 0 1rem; /* Margini laterale pentru spațiu */
+  padding: 0 1rem; /* Margini laterale constante */
+  width: 100%; /* Folosește tot spațiul disponibil în container */
 }
 
 /* Input group pe desktop: input + buton în linie */
 .input-group {
   display: flex;
-  gap: 0.5rem;
+  gap: 1rem; /* Distanță fixă și consistentă între input și buton */
   justify-content: center; /* Centrează conținutul */
+  align-items: center; /* Aliniază vertical */
 }
 
 /* Stiluri pentru input */
 .input-group input[type="text"] {
   flex: 1; /* Ocupă spațiul disponibil */
   padding: 0.75rem;
-  font-size: 1rem;
+  font-size: 1rem; /* Dimensiune text uniformă */
   border: 1px solid #ccc;
   border-radius: 0.5rem;
-  max-width: 600px; /* Limitează lățimea maximă pe desktop */
+  max-width: 300px; /* Limitează lățimea maximă pe toate paginile */
+  width: 100%; /* Asigură consistență pe mobil */
+  box-sizing: border-box; /* Include padding în width */
 }
 
 /* Stiluri pentru buton */
@@ -64,6 +68,7 @@
   color: white;
   cursor: pointer;
   transition: background-color 0.2s ease;
+  min-width: 120px; /* Dimensiune minimă fixă pentru buton */
 }
 
 .input-group button:hover {
@@ -78,56 +83,18 @@
 
   .input-group {
     flex-direction: column;
-    align-items: center; /* Centrează input și buton */
+    gap: 0.75rem; /* Distanță mai mică pe mobil */
+    align-items: center;
   }
 
   .input-group input[type="text"] {
-    width: 100%;
-    max-width: 300px; /* Input mai mic pe mobil */
+    max-width: 100%; /* Umple containerul pe mobil */
+    width: 250px; /* Dimensiune fixă pe mobil */
   }
 
   .input-group button {
-    width: 200px; /* Buton mai mic decât input-ul */
-    margin-top: 0.75rem;
-  }
-}
-
-/* Adaugă aici stilurile pentru butoanele de temă, dacă nu le ai deja în global.css */
-.theme-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin: 1rem 0;
-}
-
-.dark-btn, .light-btn {
-  padding: 0.5rem 1rem;
-  font-size: 1rem;
-  border: none;
-  border-radius: 0.5rem;
-  background-color: #f0f0f0;
-  cursor: pointer;
-  transition: background-color 0.2s ease;
-  width: auto;
-  min-width: 80px;
-}
-
-.dark-btn:hover, .light-btn:hover {
-  background-color: #d0d0d0;
-}
-
-@media (max-width: 600px) {
-  .theme-buttons {
-    flex-direction: row;
-    justify-content: center;
-    gap: 0.75rem;
-  }
-
-  .dark-btn, .light-btn {
-    min-width: 70px;
-    font-size: 0.9rem;
-    padding: 0.5rem 0.75rem;
+    width: 150px; /* Buton mai mic pe mobil */
+    margin-top: 0;
   }
 }
 </style>
