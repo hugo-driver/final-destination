@@ -120,13 +120,13 @@ Sau, pe 28 noiembrie 2011, fără să fiu sub influența faptului că în urmă 
 
 Bine, nu era chiar din senin.
 
-Pur și simplu, mi-am dat seama că deși câștigam OK de pe urma contractelor pe care le aveam ca ziarist, viitorul meu financiar ar fi fost mai sigur și mai sănătos dacă începeam să produc bani [vânzându-mi cunoașterea sub forma a tot felul de produse](https://shop.beldie.ro/?ref=beldie.ro).
+Pur și simplu, mi-am dat seama că deși câștigam OK de pe urma contractelor pe care le aveam ca ziarist, viitorul meu financiar ar fi fost mai sigur și mai sănătos dacă începeam să produc bani [vânzându-mi cunoașterea sub forma a tot felul de produse](https://shop.beldie.ro/).
 
 Prin urmare, nu doar că am stat și m-am gândit ce ar trebui să fac pentru ca diversele mele site-uri să-și vândă mai bine produsele, dar am și trecut pe o foaie de hârtie planul la care am ajuns.
 
 În plus, chiar din acea zi, am început să-l pun în aplicare fără să mai caut tot felul de scuze de amânare.
 
-Îmi aduc aminte că una dintre măsurile pe care le-am luat atunci a fost ca abonații Fii bărbat! să primească zilnic pe email [ponturi despre seducție](https://fiibarbat.ck.page/abonare-ponturi?ref=beldie.ro).
+Îmi aduc aminte că una dintre măsurile pe care le-am luat atunci a fost ca abonații Fii bărbat! să primească zilnic pe email [ponturi despre seducție](https://www.fiibarbat.ro/abonare/).
 
 Zilnic.
 

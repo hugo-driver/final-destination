@@ -191,7 +191,7 @@ PS: deși n-am recunoscut-o vreodată, o spun acum: ALX era mai bun decât BEL. 
 
 Resurse care-ți pot fi de ajutor:
 
- * [Metoda Hard Reset](https://beldie.ro/hard-reset)
+ * [Metoda Hard Reset](https://beldie.ro/hard-reset/)
  * [Cum să omori un SMZ](https://beldie.ro/cum-omori-social-media-zombie-smz/)
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:

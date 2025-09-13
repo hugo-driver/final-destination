@@ -107,4 +107,4 @@ Este posibil ca, în urma solicitării de ștergere a datelor, Chutzpah SRL să 
 
 Pentru orice întrebări suplimentare cu privire la modul în care datele cu caracter personal sunt prelucrate și pentru a-ți exercita drepturile menționate mai sus, va trebui să trimiți mesaj la adresa de email salut (@) chutzpah (.) ro  sau folosind <a href="https://letterbird.co/stefan/"> formularul de contact </a>.
 
-Această pagină de internet folosește fișiere de tip cookie. Pentru mai multe informații cu privire la modul în care se folosesc aceste fișiere, vă rugăm să accesați următorul link: <a href="https://beldie.ro/politica-privind-fisierele-cookies/"> Politică privind fișierele cookies</a>.
+Această pagină de internet folosește și fișiere de tip cookie.

@@ -56,7 +56,7 @@ Prin urmare, se poate spune că [site-ul pe care scrii va vinde pentru tine](htt
 
 Am început să scriu pe blog la finalul anului 2005.
 
-La început, am folosit o platformă gratuită de blogging oferită de Google – Blogger, dar după câteva luni am achiziționat domeniul beldie.ro și am eliminat total ideea de-a mai folosi genul respectiv de servicii pentru oricare dintre proiectele mele online.
+La început, am folosit o platformă gratuită de blogging oferită de Google – Blogger, dar după câteva luni am achiziționat domeniul https://beldie.ro și am eliminat total ideea de-a mai folosi genul respectiv de servicii pentru oricare dintre proiectele mele online.
 
 Știu că-n zona sfaturilor despre cum să-ți faci un blog există ideea că ar trebui să începi cu ajutorul unui serviciu de blogging gratuit, precum cel oferit de WordPress – numedomeniu.wordpress.com
 
@@ -84,11 +84,11 @@ Acest aspect contează mult pentru că va avea o influență majoră în etapele
 
 Deși există o grămadă de situații în care focusul unui blog se poate schimba relativ ușor, e mult mai bine să pornești de la început pe drumul cel bun.
 
-De exemplu, blogul Beldie.ro a avut două schimbări majore de focus.
+De exemplu, blogul meu a avut două schimbări majore de focus.
 
 Prima în 2013, am decis să acord o mai mare atenție promovării cunoașterii mele din zona marketing-ului online (email marketing, copywriting, blogging), să reduc articolele legate de zona media și să mut textele dedicate fotbalului pe [Camera VAR](https://www.cameravar.ro).
 
-A doua, a fost mult mai recentă, când am decis să scriu mai mult despre influențele diverselor tehnologii moderne asupra minții umane și să duc zona de marketing spre ceea ce azi numesc [PsihoMarketing](https://beldie.ro/tag/psihomarketing/).
+A doua, a fost mult mai recentă, când am decis să scriu mai mult despre influențele diverselor tehnologii moderne asupra minții umane și să duc zona de marketing spre ceea ce azi numesc [PsihoMarketing](https://beldie.ro/tags/psihomarketing/).
 
 De ce am făcut aceste schimbări?
 
@@ -126,7 +126,7 @@ Atunci când îți stabilești numele domeniului, ar trebui să ții cont și de
 
 ### **a) Blog personal sau un blog care urmează să-ți întărească statutul de specialist într-un anume domeniu**
 
-În acest caz, poți alege ca nume de domeniu ori numele de familie (ex. beldie.ro) în caz că este disponibil pe site-ul ROTLD, ori numele complet (ex. stefanbeldie.ro)
+În acest caz, poți alege ca nume de domeniu ori numele de familie (ex. beldie . ro) în caz că este disponibil pe site-ul ROTLD, ori numele complet.
 
 Sau poți fi un pic creativ și să jonglezi cu ideea de specializare pe un domeniu și numele propriu. De exemplu, cineva apropiat mie se pregătește să lanseze un magazin online de vânzare a mierii de albine.
 

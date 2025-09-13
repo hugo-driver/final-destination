@@ -34,7 +34,7 @@ Nu poți utiliza, realiza materiale derivate, reproduce, distribui, imprumuta, p
 Avem în vigoare o politică de confidențialitate <a href="https://beldie.ro/politica-de-confidentialitate/"> care poate fi studiată aici.</a>
 
 
-De asemenea, avem în vigoare o politică privitoare la fișierele cookies <a href="https://beldie.ro/politica-privind-fisierele-cookies/"> care poate fi studiată aici.</a>
+De asemenea, avem în vigoare o politică privitoare la fișierele cookies care poate fi studiată aici.
 
 
 ## Garanții și returnarea produselor
