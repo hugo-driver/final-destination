@@ -34,7 +34,7 @@ Asemeni acestuia, încearcă să ignore orice descoperire cu utilitate dovedită
 
 Ai putea crede că aceștia sunt marii inovatori ai timpurilor noastre, dar în realitate sunt marii pierzători de timp ai timpurilor noastre.
 
-De exemplu, numitul Mruh 253 se află în căutarea unor [metode prin care să-și îmbunătățească starea de bine](https://beldie.ro/tag/starea-de-bine/).
+De exemplu, numitul Mruh 253 se află în căutarea unor [metode prin care să-și îmbunătățească starea de bine](https://beldie.ro/tags/stare-de-bine/).
 
 Sarcina lui este foarte dificilă pentru că, asemeni celui mai vechi membru al liniei sale genetice, trebuie să elimine din propria minte informații cu valoare de adevăr super demonstrată.
 

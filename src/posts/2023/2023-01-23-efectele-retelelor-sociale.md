@@ -1,7 +1,7 @@
 ---
 title: 'Rețelele sociale te fac impulsiv, anxios și lipsit de focus'
 description: 'Dacă obișnuiești să-ți prăjești creierii pe TikTok, Instagram, Facebook, YouTubet etc. atunci destul de probabil starea ta psihică este la pământ.'
-permalink: "/portret-robot-lipsit-de-focus-impulsiv-si-anxiosi/"
+permalink: "/portret-robot-lipsit-de-focus-impulsiv-si-anxios/"
 date: 2023-01-23
 tags: ['stare de bine']
 ---
