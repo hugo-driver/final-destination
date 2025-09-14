@@ -1,3 +1,9 @@
+/* 
+  Fonts dezactivate: acum site-ul folosește system fonts.
+  Am comentat definițiile @font-face pentru Atkinson Hyperlegible și Red Hat.
+*/
+
+/*
 @font-face {
   font-family: 'Atkinson Hyperlegible';
   font-style: normal;
@@ -37,3 +43,4 @@
     local(''),
     url('/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2') format('woff2');
 }
+*/
