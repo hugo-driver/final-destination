@@ -3,6 +3,8 @@ title: Plată ședință psihoterapie
 permalink: /plata-terapie/
 description: 'Pagina de plată a ședințelor de psihoterapie susținute de Ștefan Beldie'
 layout: page
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
 ---
 
 Această plată este pentru cei care intră sau se află în proces de terapie cu mine.
