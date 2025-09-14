@@ -1,25 +1,49 @@
 {
   "title": "Fonts",
-  "description": "Each array of fonts creates a priority-based order. The first font in the array should be the ideal font, followed by sensible, web-safe fallbacks",
+  "description": "System fonts for better performance and privacy.",
   "items": [
     {
       "name": "Display",
-      "description": "Display font stack for headings and large text. Redhat Display is made for headlines and big statements, are low contrast and spaced tightly, with a large x-height and open counters.",
-      "value": ["Helvetica Neue", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+      "description": "System font stack for headings and large text.",
+      "value": [
+        "ui-sans-serif",
+        "system-ui",
+        "-apple-system",
+        "Segoe UI",
+        "Roboto",
+        "Helvetica Neue",
+        "Arial",
+        "Noto Color Emoji",
+        "Apple Color Emoji",
+        "Segoe UI Emoji",
+        "Segoe UI Symbol"
+      ]
     },
     {
       "name": "Base",
-      "description": "Base font stack for body text. Atkinson Hyperlegible, named after the founder of the Braille Institute, has been developed specifically to increase legibility for readers with low vision, and to improve comprehension.",
-      "value": ["Atkinson Hyperlegible", "system-ui", "sans-serif"]
+      "description": "System font stack for body text.",
+      "value": [
+        "ui-sans-serif",
+        "system-ui",
+        "-apple-system",
+        "Segoe UI",
+        "Roboto",
+        "Helvetica Neue",
+        "Arial",
+        "Noto Color Emoji",
+        "Apple Color Emoji",
+        "Segoe UI Emoji",
+        "Segoe UI Symbol"
+      ]
     },
     {
       "name": "Mono",
       "description": "Monospace font for code and preformatted text.",
       "value": [
         "ui-monospace",
-        "Cascadia Code",
-        "Source Code Pro",
+        "SFMono-Regular",
         "Menlo",
+        "Monaco",
         "Consolas",
         "DejaVu Sans Mono",
         "monospace"
