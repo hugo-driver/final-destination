@@ -41,7 +41,7 @@ Citește în continuare și te vei lămuri.
 Primești recomandările mele pentru următoarele categorii alimentare:
 
 1. **Carne - 18 recomandări de producători** (carne proaspătă și produse derivate, inclusiv produse din carne de vânat)
-2. **Lactate - 13 recomandări de producători** (lactate și produse derivate, inclusiv produse bio sau puțin / blând procesate )
+2. **Lactate - 14 recomandări de producători** (lactate și produse derivate, inclusiv produse bio sau puțin / blând procesate )
 3. **Alte produse alimentare - 16 recomandări de producători** (ouă, pește, pâine, apă)
 4. **Restaurante - 8 recomandări de restaurante** (majoritatea din București)
 
