@@ -6,203 +6,128 @@ date: 2022-09-30
 tags: ['stare de bine']
 ---
 
-upă cum știi deja, [cel mai important lucru este să începi](https://beldie.ro/actioneaza/).
+![Cum să-ți stabilești obiective deștepte](/assets/images/gallery/cum-sa-ti-stabilesti-obiective-destepte.jpg)
 
-Unii spun că momentul ideal pentru a începe ceva a fost deja-n trecut, prin urmare, nu-ți rămâne decât să folosești al doilea moment ideal posibil.
+Am scris acest text în 2020, dar în mare, am aceeași părere și astăzi.
 
-Adică să-ncepi în prezent.
+Desigur, am mai nuanțat-o și în alte ocazii. 
 
-Azi, acum.
+"Ce părere ai despre Radu Banciu?""
 
-Nu dezarma, prezentul nu-i puțin lucru.
+Așa sună întrebarea pe care o aud destul de des din gura celor care își dau seama că-s tipul acela care apar prin emisiuni dedicate fotbalului.
 
-Cei mai mulți dintre noi amânăm orice obiectiv dificil pentru viitor, așa că a te folosi de prezent este o alegere-avantaj.
+De obicei, mă-ntreabă acest lucru oameni care-s fani ai lui Radu Banciu.
 
-Al doilea lucru important după început este să continui.
+Îmi dau seama asta din tonul acela plin de speranță al omului care abia așteaptă să-i confirmi că și ție-ți place ce-i place lui.
 
-Nu-ți închipui câte începuturi fără continuare vagabondează prin mintea noastră, câte proiecte nefinalizate ne distrag atenția pînă ajungem la nivelul de concentrare al unui țânțar și ne scad încrederea-n sine.
+Aproape de fiecare dată, spun cam aceleași vorbe.
 
-Al treilea lucru important ține de felul în care-ți privești obiectivele.
+Că anumite lucruri îmi plac la Radu Banciu, că altele nu-mi plac.
 
-Majoritatea oamenilor au impresia că dacă se concentrează zilnic asupra țintei finale le va fi mai ușor să o și atingă.
+Că nu pot contesta soiul de talent pe care-l are. Nici faptul că-n mod evident are genul de cultură care se-ntâlnește destul rar atât în lumea ziariștilor, cât și-n cea a personajelor care apar pe la TV.
 
-E posibil să o atingă, dar categoric nu le va fi mai ușor.
+Apoi, îi spun respectivului că nu-l cunosc personal pe Banciu.
 
-## De ce e greu să-ți atingi obiectivele stabilite
+Că am schimbat câteva cuvinte de-a lungul timpului, dar amândoi am vorbit mai mult în viața noastră cu vânzătoarea morocănoasă de la chioșcul din colț decât unul cu celălalt.
 
-În mare, sunt două motive.
+## Dacă cineva apropiat ție ar fi victima lui Banciu…
 
-Pe de o parte, majoritatea ne propunem obiective importante, ceea ce e foarte bine.
+În fine, după ce apuc să spun aceste lucruri, cel cu care vorbesc îmi spune ceea ce mulți dintre fanii lui Radu Banciu obișnuiesc să spună:
 
-Ce nu părem să luăm în calcul atunci când ni le propunem este volumul mare de muncă presupus de acestea și consumul intens de energie nervoasă solicitat de un astfel de efort.
+> „Da, dar le spune pe bune în emisiune!”
 
-Volumul acesta mare de muncă are legătură și cu faptul că aproape orice-i important presupune efort, dar și cu o logica matematică – dacă-ți propui 73 de obiective importante, atunci categoric ai de tras ca un bou de povară.
+sau
 
-Pe de altă parte, faptul că-ți propui multe deodată te poate sufoca psihic.
+> „Mie îmi place stilul lui… E super tare omul!”
 
-Ce-nseamnă asta?
+Exact acesta e momentul în care fac ceva ce mi-a intrat deja-n reflex.
 
-În comediile americane există foarte des o scenă în care când cineva deschide ușa unui dulap peste el năvălesc o mulțime de lucruri. Uneori, respectivul le împinge la loc, închide cu mare dificultate ușa și respiră oarecum ușurat c-a rezolvat problema.
+Îi confirm încă o dată că Banciu are într-adevăr stilul său, dar…
 
-Așa-i și cu listele prea bogate de obiective.
+Dar c-ar trebui să se gândească un moment la situația în care el sau cineva apropiat lui – copilul său, mama sa, sora sa, iubita sa ar fi ținta insultelor lui Banciu.
 
-După ce ți le-ai stabilit, începi să trăiești cu acestea. Dacă sunt mult prea multe, zilnic se vor prăvăli peste tine.
+Insulte, nu critici sau ironii – Banciu nu se rezumă la a critica sau la a ironiza, amestescă și insulte în toată povestea.
 
-În unele zile vei reuși să le împingi într-o debara a creierului tău și vei evada online sau în orice altă grădină de escapism.
+Dacă fanul respectiv sau cineva foarte apropiat lui ar fi făcut prost, țăran, diform, curvă etc. la TV de către Radu Banciu.
 
-Alteori vei cădea pur și simplu sufocat sub mormanul de obiective propuse.
+De obicei, cei cu care vorbesc fac un pic de pauză de gândire, dar nu-s chiar convins că toți reușesc să ducă acest exercițiu de imaginație până la capăt.
 
-Încercarea de-a lua un singur obiectiv și de-a lucra asupra sa va fi dificilă pentru că dintr-un maldăr de obiective care se revarsă asupra ta e greu să alegi ceva.
+## În ce condiții ești încântat de insultele lui Banciu
 
-Așa încep cele mai multe pierderi de energie nervoasă și așa ajungi să cauți alternative la muncă, eventual alternative care să semene oarecum a muncă.
+Oamenilor le este greu să facă acest schimb de roluri cu victimele pe seama cărora s-au amuzat poate chiar cu o seară înainte.
 
-## Cum arată niște obiective cu adevărat deștepte
+În schimb, e foarte ușor să ne bucurăm când cineva bogat sau celebru sau ambele este dat jos de pe cal și trântit în mocirla-n care călcăm noi zi de zi.
 
-În mare, trebuie să simplifici lucrurile.
+E mult mai ușor de suportat ceea ce noi trăim zilnic, dacă cei pe care-i considerăm avantajați de soartă ajung la același nivel cu noi. Cumva, faptul că băiatul Andrei și al lui Măruță e considerat urât de Banciu ne dă nouă impresia că și viața lor e de rahat, nu doar a noastră.
 
-În loc să-ți stabilești o listă nesfârșită de obiective, stabilește-ți 3-5 obiective deștepte.
+Că și lor li se poate întâmpla ceea ce ni se întâmplă și nouă.
 
-Când spun “obiective deștepte”, mă refer la genul de obiective a căror realizare aduce beneficii într-o grămadă de arii ale vieții tale.
+Sau dacă Simona Halep este doar o țărăncuță care nu are altă calitate în afara unui pic de ambiție, atunci faptul că noi înșine suntem pe locul 485.345 în topul mondial al lăcătușilor mecanici e mai ușor de suportat.
 
-Cumva, aceste obiective [au tendința de-a respecta regula 80/20](https://beldie.ro/de-ce-pareto-ar-trebui-sa-fie-idolul/).
+Și alții sunt mediocri, nu doar noi.
 
-De asemenea, asemeni multor oameni deștepți, obiectivele deștepte nu sunt spectaculoase, ci doar eficiente.
+Simplu fapt că alții apar la TV e doar o chestie de…
 
-Prin urmare, un obiectiv deștept poate să fie aparent plictisitor, dar realizarea sa înseamnă mai mult decât ți-ai putea închipui.
+Cum îi zice?
 
-În fine, obiectivele deștepte se concentrează mai mult asupra procesului de realizare a unui lucru decât asupra țintei finale.
+Nu contează, am putea la fel de bine să fim noi în locul lor dacă aveam pilele lor, banii lor, norocul lor sau disponibilitatea lor de-a fi curve la propriu sau la figurat.
 
-Probabil că deja ești curios cum arată un obiectiv deștept.
+Sau simplu fapt că o tipă e în topul celor mai bune 10 practicante de tenis din lume e o chestie de…
 
-Păi, pentru cineva care vrea să slăbească, un obiectiv deștept poate fi să mănânce conștient.
+Da, de context! Așa-i zice!
 
-Mindfull, cum se zic unii în limbaj de self help.
+Înțelegi ideea?
 
-Asta înseamnă să fie calm la masă, să mestece suficient mâncarea, să fie atent la gustul acesteia, să se bucure de mâncare în liniște.
+De obicei, te bucuri de insultele lansate de alții pentru că asta-ți face ție insuccesul personal mai suportabil.
 
-Vezi?
+De fapt, așa ai impresia.
 
-Aparent, nimic spectaculos.
+Totuși, cum impresia ta e singura impresie pe care o ai, trebuie să recunosc faptul că e importantă și singura care contează.
 
-Totuși, efectele unui astfel de proces pot fi incredibile pentru un om având în vedere [cum s-a jucat Natura cu mintea noastră când vine vorba de mâncare.](https://beldie.ro/de-ce-esti-gras/)
+Chiar dacă e bazată pe un viciu de gândire.
 
-Din start, omul respectiv ajunge să mănânce un volum de hrană mai mic pentru că mesele durează mai mult și senzația de sațietate are timp să se instaleze fără să fie nevoie ca un bol alimentar uriaș să apese pe pereții stomacului.
+În fine, nu cred că există oameni cu viață-n regulă care să găsească o plăcere profundă în a urmări insultarea altor oameni. Nu spun că nu-i posibil, spun că eu nu cred în asta.
 
-Fiecare dumicat este mestecat mai mult, astfel că mușchii maxilarelor se contractă mai mult și semnalele pe care aceștia le transmit creierului devin mai puternice.
+## Sigur, tu zici asta pentru că te-a insultat și pe tine
 
-Nu te mai saturi doar când ți-e stomacul greu și ai rămas fără aer de atâta înfulecat, ci pentru că ai mestecat suficient un volum mult mai mic de hrană.
+Nu cred ca Radu Banciu să mă fi insultat vreodată pe mine.
 
-Apoi, atitudinea pe care o exersezi în timpul mesei, acest mâncat „mindfull” ajunge să-ți influențeze multe dintre atitudinile tale din restul activităților.
+Dacă a făcut-o totuși, nu am habar despre asta.
 
-Așa cum atunci când mănânci ca un sălbatic tinzi să te porți ca atare și-n alte privințe, tot așa atunci când îți controlezi comportamentul tinzi să ți-l controlezi și-n alte privințe.
+Ce a făcut el în privința mea ține de ironizarea formulei aceleia pe care o tot foloseam eu –  „Beldie sunt”.
 
-Calmul sau zbuciumul dintr-o activitate zilnică se reproduce apoi mai târziu în zi în tot felul de situații.
+Pentru cei care nu știu, atunci când eram invitat prin emisiuni și intram în direct cu diverși oameni din fotbal, mă prezentam cu această sintagmă – „Beldie sunt” – înainte să adresez vreo întrebare.
 
-De aceea, o primă masă a zilei poate ajunge să fie un exercițiu de autocontrol benefic și-n alte arii ale vieții tale.
+Făceam asta pentru ca omul care vorbea cu mine prin telefon să știe cu cine vorbește, pentru că a spune sunt Ștefan Beldie mi se părea o formulă prea lungă și pentru că-i posibil să fiu mândru de numele meu.
 
-O ultimă masă a zilei, luată într-un moment în care ești deja obosit, îți vine greu să te mai concentrezi, să te mai controlezi, te poate ajuta să desăvârșești această practică.
+În fine, textul acesta nu este despre Radu Banciu. Despre câtă dreptate are sau despre câtă dreptate-i lipsește în tot ceea ce face.
 
-Limpede?
+Textul acesta este despre motivele pentru care, uneori, gustăm cu multă poftă ura.
 
-Uite, un obiectiv pentru cei care vor să slăbească și să facă mușchi și să arate ca Brad Pitt în Snatch sau în Fight Club…
+Așa cum ți-am spus, nu-l cunosc pe Radu Banciu și mi-ar fi greu să am ceva împotriva lui personal. Pot avea ceva împotriva unora dintre faptele sale – de exemplu, împotriva faptului că transformă criticile în insulte.
 
-Glumesc, trebuie să te ajute și genetica să arăți chiar așa.
+## Ce ai putea lua de la Banciu și ți-ar prinde tare bine
 
-Totuși, pentru a arăta bine din punct de vedere fizic poți să faci eroarea de-a-ți impune un obiectiv păcălitor:
+Ai observat acea tendință de-a judecat totul în alb și negru când vine vorba de alții?
 
-> “Vai, am 7 kilograme în plus, trebuie să slăbesc și să merg la sală și să-mi iau un antrenor personal și să fac în fiecare zi flotări și să fac luni, miercuri și vineri picioare și spate”.
+Suntem atât de severi și de clari în opțiuni când îi judecăm pe alții!
 
-Sau poți să-ți propui un obiectiv deștept, un obiectiv care să fie concentrat asupra procesului de atingere a țintei, care să nu țină cont de minciunile cântarului (mușchii cântăresc mai greu decât masa adipoasă) și care să-ți aducă beneficii într-o grămadă de alte arii ale vieții tale.
+Dacă cineva îți place, acel cineva are dreptate în tot și în toate.
 
-Un astfel de obiectiv ar suna cam așa:
+Dacă cineva nu-ți place, atunci automat ai impresia că de la acel cineva nu poți învăța nimic sau că acel cineva e total lipsit de calități.
 
-> “Mă duc la sală de 3 ori pe săptămână”.
+Realitatea este că inclusiv oamenii care nu ne plac spun adevăruri sau pot fi exemplu de urmat în anumite privințe.
 
-După cum vezi, ca majoritatea obiectivelor deștepte, nici acesta nu este unul spectaculos.
+De exemplu, nu știu dacă Banciu este la fel de direct și-n discuțiile personale – ți-am spus, am stat prea puțin de vorbă cu el.
 
-Totuși, simplu fapt că te duci la sală de 3 ori pe săptămână te va împinge la progres atât în ceea ce privește schimbarea felului în care arăți, cât și a felului în care gândești.
+Totuși, cred că fiecăruia dintre noi ne-ar prinde bine să fim mai clari și mai curajoși în ceea ce privește exprimarea gândurilor noastre – ce vrem, ce nu vrem, ce ne place, ce nu ne place, ce părere avem etc.
 
-De 3 ori pe săptămână nu înseamnă doar intrarea într-un sistem care implică efort fizic și timp pentru recuperare după acesta.
+În felul acesta, două lucruri se-ntâmplă destul de repede:
 
-Acest de 3 ori pe săptămână te obligă să oferi un pic de structură vieții tale de zi cu zi. Înseamnă să-ți alegi acele 3 zile ale săptămânii și să ai niște puncte fixe în ele.
+- devii mai conștient de ceea ce ești / cine ești
+- cei din jur devin la rândul lor conștienți de ceea ce ești / cine ești
 
-De 3 ori pe săptămână îți vei ști clar programul măcar apropo de mersul la sală.
-
-Vei ști zilele în care mergi, vei ști orele la care te duci, vei deveni mai organizat decât majoritatea oamenilor prin simplu fapt că mergi de 3 ori la o sală de fitness.
-
-Aproape că nu contează ceea ce faci la respectiva sală, contează doar să te duci. Dacă te duci, vei face sigur ceva favorabil ție. E suficient să ajungi acolo și automat vei realiza ceva, te vei mișca într-o direcție pozitivă.
-
-## De ce e important să începi la pas înainte de-a trece la galop
-
-Când eram puștan, bunicul meu l-a avut pe Costel.
-
-Costel a fost un cal cu niște caracteristici neobișnuite. În primul rând, cred c-a fost combinația ideală de forță și viteză pe care un astfel de animal o putea avea.
-
-Apoi, Costel arăta într-un mare fel.
-
-Foarte înalt, negru intens, fioros.
-
-Da, fioros.
-
-De exemplu, atunci când părăsea zona de păscut și mai intra în recoltele oamenilor, aceștia se limitau să-l gonească prin strigături și ridicări de brațe. Singura dată când cineva a vrut să-l prindă pentru a putea cere despăgubiri bunicului meu, Costel s-a comportat precum un câine.
-
-Adică s-a repezit să muște și a alergat după respectivul om.
-
-Această întâmplare, dar și faptul că-și deschidea singur poarta împingând-o cu capul, faptul că depășea din proprie inițiativă căruțele aflate în fața sa, faptul că avea o poftă nebună de-a merge mereu la un trap foarte intens i-au creat o aură aparte în ochii unora dintre săteni.
-
-În fine, când m-am suit prima dată pe Costel, mă aflam în postura celui care nu mai călărise niciodată, dar care-și dorea să facă exact ceea ce văzuse prin filme.
-
-Adică să prind o viteză cât mai mare, eventual să-mi dea lacrimile din cauza curentului, [așa cum auzisem că i se-ntâmpla bunicului meu în tinerețe](https://www.fiibarbat.ro/cateva-lucruri-destepte-invatate-de-la-conte/).
-
-Problema este că până să ajungi la galop, calul trece prin trap. Iar la trap, un călăreț fără experiență aflat pe spatele unui cal precum Costel este zguduit zdravăn.
-
-Prima căzătură s-a produs când mergea la trap și impactul cu pământul a fost atât de dur încât am avut vreo câteva zile ezitări să mai urc pe el.
-
-Ce vreau eu să-ți spun cu asta, dincolo de faptul că am avut un cal incredibil?
-
-Că mulți dintre noi suntem călăreți fără experiență când vine vorba de obiective importante. Prin urmare, e mai bine să-ncepem cu plimbări la pas, nu cu galop.
-
-Nu de alta, dar dacă-ți propui lucruri prea dificile din start, vei fi aproape sigur aruncat din șa de respectivul obiectiv.
-
-Și dacă vei cădea, ghici ce se va întâmpla?
-
-Te va durea?
-
-Posibil, dar nu asta-i cel mai grav lucru.
-
-Cel mai grav lucru este că după ce eșuezi vei fi mai tentat să renunți decât să te urci la loc.
-
-Așa se-ntâmplă cu cei care-și propun deodată să nu mai fumeze, să nu mai mănânce dulciuri, să meargă la ore de body pumping, să facă zilnic exerciții de dicție, să înceapă un masterat, să…
-
-Totul deodată, în același timp.
-
-Exact ca mine care am vrut să merg la galop de prima dată când m-am urcat pe-un cal nărăvaș.
-
-Aceasta-i o rețetă aproape sigură pentru eșec, prin urmare ține cont de realitate înainte de orice.
-
-Dacă până acum ai stat lungit pe canapea la televizor, ghici la ce ești tu bun?
-
-La stat lungi pe canapea la televizor.
-
-Nu poți dintr-o dată să faci 73 de lucruri importante.
-
-Ia-o ușor, ia-o treptat.
-
-Nu-ți propune totul deodată pentru că vei fi copleșit și vei renunța.
-
-Victoriile obținute pentru reușite aparent mărunte îți vor construi un psihic puternic, îți vor alimenta determinarea și te vor ajuta să faci din ce în ce mai multe lucruri importante.
-
-Propune-ți 3-5 obiective deștepte și concentrează-te doar asupra lor.
-
-Restul lucrurilor bune se vor lipi de aceste practici corecte și se vor dezvolta în contactul cu acestea.
-
-**PS**: există situații când a schimba total lucrurile dintr-o dată este chiar indicat - în lupta cu adicțiile de tot felul. Niciodată nu încerca să aplici ideea de mai sus când ai o problemă reală. Există metode mult mai bune pentru a rezolva astfel de probleme.
-
-De exemplu**:**
-
-1. [**Metoda Hard Reset**](https://beldie.ro/hard-reset/)
-2. [**Cum să omori un Social Media Zombie (SMZ)**](https://beldie.ro/cum-omori-social-media-zombie-smz/)
-3. [**Lasă-te de "albă"! - Cum să scapi din sclavia masturbării**](https://www.fiibarbat.ro/lasa-te-de-alba/)
+Și-n noile condiții, e destul de probabil să te bucuri un pic mai mult de viața pe care o ai și un pic mai puțin de problemele pe care le au alții.
 
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
