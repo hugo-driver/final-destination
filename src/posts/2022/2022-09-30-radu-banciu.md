@@ -6,8 +6,6 @@ date: 2022-09-30
 tags: ['stare de bine']
 ---
 
-![Cum să-ți stabilești obiective deștepte](/assets/images/gallery/cum-sa-ti-stabilesti-obiective-destepte.jpg)
-
 Am scris acest text în 2020, dar în mare, am aceeași părere și astăzi.
 
 Desigur, am mai nuanțat-o și în alte ocazii. 

@@ -5,6 +5,9 @@ permalink: "/cum-sa-ti-stabilesti-obiective-realizabile/"
 date: 2022-10-01
 tags: ['simplitate']
 ---
+
+![Cum să-ți stabilești obiective deștepte](/assets/images/gallery/cum-sa-ti-stabilesti-obiective-destepte.jpg)
+
 După cum știi deja, [cel mai important lucru este să începi](https://beldie.ro/actioneaza/).
 
 Unii spun că momentul ideal pentru a începe ceva a fost deja-n trecut, prin urmare, nu-ți rămâne decât să folosești al doilea moment ideal posibil.
