@@ -15,7 +15,7 @@ Aici ai lista tuturor paginilor de pe site-ul meu, aranjate într-o manieră cum
         * [Simplitate](https://beldie.ro/tags/simplitate/)
         * [Stare de bine](https://beldie.ro/tags/stare-de-bine/)
         * [Psihomarketing](https://beldie.ro/tags/psihomarketing/)
-* [Ghiduri](https://beldie.ro/ghiduri) 
+* [Ghiduri](https://beldie.ro/ghidurile) 
     * [Corp de Animal](https://beldie.ro/corp-de-animal-ghid-de-nutritie-paleo/)
     * [Cum să omori un Soial Media Zombie](https://beldie.ro/cum-omori-social-media-zombie-smz/)
     * [Un mail pe zi](https://beldie.ro/cum-sa-vinzi-email-marketing/)
