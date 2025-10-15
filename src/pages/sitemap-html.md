@@ -22,6 +22,7 @@ Aici ai lista tuturor paginilor de pe site-ul meu, aranjate într-o manieră cum
     * [Hard Reset](https://beldie.ro/hard-reset/)
     * [Lista lui Beldie](https://beldie.ro/lista-lui-beldie/)
     * [Lista cu mâncare bună](https://beldie.ro/lista-cu-mancare-buna/)
+    * [Sfamră Piatră - Transformarea (Ed. a II-a)](https://beldie.ro/sfarma-piatra-transformarea/)
 * [Termeni și condiții](https://beldie.ro/termeni-si-conditii/)
 * [Confidențialitate](https://beldie.ro/politica-de-confidentialitate/)
 * [Returnare produse](https://beldie.ro/politica-de-returnare-a-produselor/)
