@@ -1,11 +1,48 @@
 ---
-title: Sfarmă Piatră - Transformarea
+title: Sfarmă Piatră - Transformarea (Ediția a II-a)
 permalink: /sfarma-piatra-transformarea/
 description: 'Ghidul care te salvează de la statul de loser și te împinge zdravăn pe calea cea dreaptă.'
 layout: page
 ---
 
-![Sfarmă Piatră - coperta.](/assets/images/gallery/sfarma-piatra-transformarea.webp)
+![Sfarmă Piatră - coperta.](/assets/images/gallery/sfarma-piatra-editia-a-II-a.jpg)
+
+
+**Atenție**: acest ghid este în perioada de pre-vânzare. Adică, dacă-l vei cumpăra acum, îți va fi livrat pe adresa de email în ziua lansării – 29 octombrie 2025.
+
+Beneficiul major dacă-l cumperi până sâmbătă, 18 octombrie, este că vei plăti mult mai puțin pentru acesta decât în momentul lansării.
+
+Adică 33 Euro în loc de cel puțin 52 Euro.
+
+Și când spun “cel puțin 52 Euro”, deja știu că prețul acestui ghid va fi mai mare de atât, dar nu vreau să creez panică, ci doar să te asigur că faci din timp o mișcare bună pentru tine.
+
+În rest, lucrurile sunt simple…
+
+Am scris prima ediție a acestui ghid în urmă cu 10 ani.
+
+Prin urmare, deși principiile care stau la baza tuturor informațiilor publicate anterior rămân valabile, am decis să fac anumite îmbunătățiri.
+
+Anumite lucruri au fost ușor modificate, iar altele au fost adăugate pentru că în anumite arii ale vieții bărbaților au apărut situații care necesită mai multă atenție decât în trecut.
+
+## De ce Sfarmă Piatră e un ghid rar
+
+Sfarmă Piatră este un ghid pe care l-am scos de la vânzarea clasică și ofer doar ocazional posibilitatea de-a-l cumpăra.
+
+Cam o dată pe an.
+
+Când sunt generos, desigur.
+
+Altfel, chiar mai rar de atât.
+
+Ultima dată am făcut-o în vara lui 2024, deci a trecut mai bine de un an de atunci.
+
+În rest, site-ul afișează în dreptul său o sumă uriașă de achiziție, astfel încât să nu poată fi cumpărat decât de Elon Musk.
+
+Da, ceva de genul 8.340.538.639.653 Euro.
+
+În fine, de ce este acest ghid special?
+
+Îți spun imediat…
 
 Oamenilor le place să se gândească la potențialul lor.
 
@@ -108,44 +145,10 @@ E genul de filosofie care te poate orienta deștept în fiecare moment al vieți
 
 Nu voi munci eu în locul tău, dar citind ghidul, vei fi mult mai convins că trebuie să faci un efort adevărat ca să-nsemni mai mult azi decât ai fost ieri și mai mult mâine decât ai fost azi.
 
-## Cum îți cumperi acest ghid
-
-Acest ghid nu se poate cumpără la fel cum pot fi cumpărate celelalte ghiduri ale mele.
-
-L-am retras de la vânzarea clasică.
-
-Adică nu-l poți cumpăra așa cum poți să cumperi celelalte ghiduri ale mele.
-
-Cu o excepție...
-
-O dată sau de două ori pe an, obișnuiesc să-l ofer oricui dorește să-l cumpere pentru o scurtă perioadă de timp.
-
-O zi sau două.
-
-De obicei, o zi.
-
-Mai mult, când e disponibil la vânzare, vine la pachet cu 3 bonusuri de mare interes mai ales pentru bărbați:
-
-1. **Cum să te vindeci de sindromul servitorului**
-2. **Ce trebuie să știi despre femeile care sunt paraziți emoționali**
-3. **De ce e important să ai direcție în viață și cum să ți-o găsești**
-
-De ce fac asta?
-
-Pentru că merită.
-
-Adică merită și pentru mine să-l vând rar, dar merită și pentru cei care-l cumpără să știe că pun mâna pe ceva prețios.
-
-Asta pentru că dacă-ți cumperi ceva rar, vei fi mult mai dispus să folosești ceea ce ai cumpărat. Cumva, apreciezi mai mult ce ai primit pentru banii tăi și folosești.
-
-În fine, prețul actual este 8.340.538.639.653 Euro 😄
-
-Da, exact.
-
-Ca să nu poată fi cumpărat.
-
-Dar când îl voi face din nou disponibil, va costa ca de obicei - 35 Euro
 
 <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=cjCM1" class="button" data-button-variant="primary">Cumpără acum - 8.340.538.639.653 Euro</a>
+      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 33 Euro</a>
       </p>
+
+
+PS: toate ghidurile mele sunt în format digital (pdf) și sunt livrate pe adresa de email folosită în formularul de cumpărare. Ediția a II-a a ghidului Sfarmă Piatră îți va fi livrată în ziua lansării - 29 octombrie. 
