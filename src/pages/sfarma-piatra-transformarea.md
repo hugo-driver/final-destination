@@ -22,7 +22,7 @@ Am scris prima ediție a acestui ghid în urmă cu 10 ani.
 
 Prin urmare, deși principiile care stau la baza tuturor informațiilor publicate anterior rămân valabile, am decis să fac anumite îmbunătățiri.
 
-Anumite lucruri au fost ușor modificate, iar altele au fost adăugate pentru că în anumite arii ale vieții bărbaților au apărut situații care necesită mai multă atenție decât în trecut.
+Anumite lucruri au fost ușor modificate, iar altele au fost adăugate pentru că în anumite arii ale vieții au apărut situații care necesită mai multă atenție decât în trecut.
 
 ## De ce Sfarmă Piatră e un ghid rar
 
