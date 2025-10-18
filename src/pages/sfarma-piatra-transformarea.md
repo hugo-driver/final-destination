@@ -147,7 +147,7 @@ Nu voi munci eu în locul tău, dar citind ghidul, vei fi mult mai convins că t
 
 
 <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 33 Euro</a>
+      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 39 Euro</a>
       </p>
 
 
