@@ -10,9 +10,9 @@ layout: page
 
 **Atenție**: acest ghid este în perioada de pre-vânzare. Adică, dacă-l vei cumpăra acum, îți va fi livrat pe adresa de email în ziua lansării – 29 octombrie 2025.
 
-Beneficiul major dacă-l cumperi până sâmbătă, 18 octombrie, este că vei plăti mult mai puțin pentru acesta decât în momentul lansării.
+Beneficiul major dacă-l cumperi înainte de 29 octombrie este că vei plăti mult mai puțin pentru acesta decât în momentul lansării.
 
-Adică 33 Euro în loc de cel puțin 52 Euro.
+Adică 39 Euro în loc de cel puțin 52 Euro.
 
 Și când spun “cel puțin 52 Euro”, deja știu că prețul acestui ghid va fi mai mare de atât, dar nu vreau să creez panică, ci doar să te asigur că faci din timp o mișcare bună pentru tine.
 
