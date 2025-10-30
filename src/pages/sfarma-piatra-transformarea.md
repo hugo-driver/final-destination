@@ -8,13 +8,15 @@ layout: page
 ![Sfarmă Piatră - coperta.](/assets/images/gallery/sfarma-piatra-editia-a-II-a.jpg)
 
 
-**Atenție**: acest ghid este în perioada de pre-vânzare. Adică, dacă-l vei cumpăra acum, îți va fi livrat pe adresa de email în ziua lansării – 29 octombrie 2025.
+**Atenție**: acest ghid este în perioada de vânzare. 
 
-Beneficiul major dacă-l cumperi înainte de 29 octombrie este că vei plăti mult mai puțin pentru acesta decât în momentul lansării.
+În general, asta se întâmplă doar o dată pe an, uneori chiar mai rar de atât. 
 
-Adică 39 Euro în loc de cel puțin 52 Euro.
+Și totul doar pentru 24-48 ore. 
 
-Și când spun “cel puțin 52 Euro”, deja știu că prețul acestui ghid va fi mai mare de atât, dar nu vreau să creez panică, ci doar să te asigur că faci din timp o mișcare bună pentru tine.
+Începând cu 1 noiembrie, noua ediție a ghidului Sfarmă Piatră va avea din nou un preț pe care doar Elon Musk și l-ar putea permite. 
+
+Nu pentru că-mi place să pun prețuri aberante, ci pentru că mi se pare cea mai bună metodă să fac ghidul acesta inaccesibil până la următoarea perioadă de vânzare.
 
 În rest, lucrurile sunt simple…
 
@@ -147,7 +149,7 @@ Nu voi munci eu în locul tău, dar citind ghidul, vei fi mult mai convins că t
 
 
 <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 39 Euro</a>
+      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 52 Euro</a>
       </p>
 
 
