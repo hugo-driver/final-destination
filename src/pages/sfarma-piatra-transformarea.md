@@ -153,4 +153,4 @@ Nu voi munci eu în locul tău, dar citind ghidul, vei fi mult mai convins că t
       </p>
 
 
-PS: toate ghidurile mele sunt în format digital (pdf) și sunt livrate pe adresa de email folosită în formularul de cumpărare. Ediția a II-a a ghidului Sfarmă Piatră îți va fi livrată în ziua lansării - 29 octombrie. 
+**PS**: toate ghidurile mele sunt în format digital (pdf) și sunt livrate pe adresa de email folosită în formularul de cumpărare.
