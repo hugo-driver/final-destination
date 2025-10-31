@@ -8,15 +8,11 @@ layout: page
 ![Sfarmă Piatră - coperta.](/assets/images/gallery/sfarma-piatra-editia-a-II-a.jpg)
 
 
-**Atenție**: acest ghid este în perioada de vânzare. 
+**Atenție**: acest ghid este în perioada de ne-vânzare. 
 
-În general, asta se întâmplă doar o dată pe an, uneori chiar mai rar de atât. 
+În general, ghidul Sfarmă Piatră se află la vânzare doar o dată pe an, uneori chiar mai rar de atât. 
 
 Și totul doar pentru 24-48 ore. 
-
-Începând cu 1 noiembrie, noua ediție a ghidului Sfarmă Piatră va avea din nou un preț pe care doar Elon Musk și l-ar putea permite. 
-
-Nu pentru că-mi place să pun prețuri aberante, ci pentru că mi se pare cea mai bună metodă să fac ghidul acesta inaccesibil până la următoarea perioadă de vânzare.
 
 În rest, lucrurile sunt simple…
 
@@ -149,7 +145,7 @@ Nu voi munci eu în locul tău, dar citind ghidul, vei fi mult mai convins că t
 
 
 <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 52 Euro</a>
+      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 85467657567575675 Euro</a>
       </p>
 
 
