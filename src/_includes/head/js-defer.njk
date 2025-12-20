@@ -1,1 +1,47 @@
 <script src="{% getBundleFileUrl "js", "defer" %}" type="module"></script>
+<script>
+(function () {
+  const form = document.getElementById('newsletter-form');
+  if (!form) return;
+
+  const message = document.getElementById('form-message');
+  const button = form.querySelector('button');
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+
+    // honeypot anti-spam
+    if (form.username && form.username.value !== '') return;
+
+    message.textContent = '';
+    button.disabled = true;
+    button.textContent = 'Se trimite…';
+
+    const data = new FormData(form);
+    data.append('ml-submit', '1');
+    data.append('anticsrf', 'true');
+
+    fetch(
+      'https://assets.mailerlite.com/jsonp/1973250/forms/174301499469334117/subscribe',
+      {
+        method: 'POST',
+        body: data,
+        mode: 'no-cors'
+      }
+    )
+      .then(() => {
+        message.textContent = '📬 Verifică emailul pentru confirmare!';
+        message.style.color = '#16a34a';
+        form.reset();
+      })
+      .catch(() => {
+        message.textContent = '❌ A apărut o eroare. Încearcă din nou.';
+        message.style.color = '#dc2626';
+      })
+      .finally(() => {
+        button.disabled = false;
+        button.textContent = 'Abonare';
+      });
+  });
+})();
+</script>

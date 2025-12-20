@@ -1,33 +1,21 @@
-<form
-  id="form"
-  action="https://assets.mailerlite.com/jsonp/1973250/forms/174301499469334117/subscribe"
-  method="post"
-  class="newsletter-form"
-  target="_blank"
->
+<form id="newsletter-form" class="newsletter-form" novalidate>
   <div class="input-group">
     <input
       type="email"
-      placeholder="Adresa ta de email"
       name="fields[email]"
-      id="email"
+      placeholder="Adresa ta de email"
       required
       autocomplete="email"
-      pattern="[a-zA-Z0-9.\-_]{1,}@[a-zA-Z0-9.\-_]{2,}[.]{1}[a-zA-Z]{2,}"
-      title="Please, insert a valid email address."
     />
 
-    <!-- Honeypot (anti-spam, exact ca înainte) -->
+    <!-- honeypot anti-spam -->
     <input
-      style="opacity: 0; position: absolute; top: 0; left: 0; height: 0; width: 0; z-index: -1;"
       type="text"
       name="username"
+      tabindex="-1"
       autocomplete="off"
+      style="position:absolute; left:-9999px;"
     />
-
-    <!-- Required hidden fields for MailerLite -->
-    <input type="hidden" name="ml-submit" value="1" />
-    <input type="hidden" name="anticsrf" value="true" />
 
     <button type="submit">Abonare</button>
   </div>
