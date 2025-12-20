@@ -1,6 +1,6 @@
 <script src="{% getBundleFileUrl "js", "defer" %}" type="module"></script>
 <script>
-(function () {
+document.addEventListener('DOMContentLoaded', function () {
   const form = document.getElementById('newsletter-form');
   if (!form) return;
 
@@ -43,5 +43,6 @@
         button.textContent = 'Abonare';
       });
   });
-})();
+});
 </script>
+
