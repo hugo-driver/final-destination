@@ -1,26 +1,39 @@
 <form
-  id="newsletter-form"
-  class="newsletter-form"
-  action="#"
+  id="form"
+  action="https://api.berserkermail.com/contact/form"
   method="post"
-  novalidate
+  class="newsletter-form"
 >
+  <img
+    alt="view pixel"
+    src="https://api.berserkermail.com/form/pixel/68c165ab40664e6b29c33ded"
+  />
+
   <div class="input-group">
     <input
-      type="email"
-      name="fields[email]"
+      type="text"
       placeholder="Adresa ta de email"
+      name="email"
+      id="email"
       required
-      autocomplete="email"
+      pattern="[a-zA-Z0-9.\-_]{1,}@[a-zA-Z0-9.\-_]{2,}[.]{1}[a-zA-Z]{2,}"
+      title="Please, insert a valid email address."
     />
 
-    <!-- honeypot -->
+    <!-- Honeypot -->
     <input
+      style="opacity: 0; position: absolute; top: 0; left: 0; height: 0; width: 0; z-index: -1;"
       type="text"
       name="username"
-      tabindex="-1"
       autocomplete="off"
-      style="position:absolute; left:-9999px;"
+    />
+
+    <input
+      type="hidden"
+      name="formId"
+      id="formId"
+      value="68c165ab40664e6b29c33ded"
+      required
     />
 
     <button type="submit">Abonare</button>
