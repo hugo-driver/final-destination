@@ -13,7 +13,7 @@ Nu am nimic altceva să-ți transmit decât că cel mai probabil ai făcut o ale
 
 În fine, aici ai link-ul spre diversele mele ghiduri:
 
-[Ghidurile lui Ștefan Beldie](https://beldie.ro/ghidurile/)
+https://beldie.ro/ghidurile/
 
 
 Ștefan Beldie.
