@@ -165,7 +165,9 @@ Astfel, consolarea mea este că dacă totuși respectivii ar fi devenit abonați
 
 Și la finalul cărora, sigur am ceva de vândut.
 
-Cum ar fi [acest ghid care te ajută să evadezi din sclavia rețelelor sociale:](https://beldie.ro/smz/)
+Cum ar fi acest ghid care te ajută să evadezi din sclavia rețelelor sociale:
+
+[Cum să omori un Social Media Zombie](https://beldie.ro/smz/)
 
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
