@@ -159,3 +159,8 @@ Ofer în schimb genul de servicii care îi ajută pe cei dornici să-și rezolve
 Desigur, când am locuri libere:
 
 [Vezi și alte reguli "ciudate" în terapia cu mine](https://beldie.ro/psihoterapie-stefan-beldie/)
+
+
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
+
+{% include "partials/newsletter-form.njk" %}

@@ -168,3 +168,8 @@ Astfel, consolarea mea este că dacă totuși respectivii ar fi devenit abonați
 Cum ar fi acest ghid care te ajută să evadezi din sclavia rețelelor sociale:
 
 https://beldie.ro/smz
+
+
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
+
+{% include "partials/newsletter-form.njk" %}
