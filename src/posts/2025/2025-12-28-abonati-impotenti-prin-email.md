@@ -2,7 +2,7 @@
 title: 'Unii oameni chiar nu sunt proști, doar că nu se pot concentra'
 description: 'De ce obișnuiesc să elimin mii de abonați prin email din listele mele în fiecare an.'
 permalink: "/sarcina-dificila-abonare-prin-email/"
-date: 2025-09-06
+date: 2025-12-28
 tags: ['psihomarketing']
 ---
 
