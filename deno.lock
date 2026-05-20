@@ -1,0 +1,61 @@
+{
+  "version": "5",
+  "remote": {
+    "https://edge.netlify.com/": "fd941d61d88673d5f28aab283fb86fcc50f08a3bc80ee5470498fcfa88c65cfb",
+    "https://edge.netlify.com/bootstrap/config.ts": "6a2ce0e544e15e8f8883a5c18da5948e37fd0f2619f68cb31f3af53c51817025",
+    "https://edge.netlify.com/bootstrap/context.ts": "e97240232121e2f369f6546ce961490f34d961ea1ea54be3ff09633e3f08373f",
+    "https://edge.netlify.com/bootstrap/cookie.ts": "8b0baae708989ca183c6f3b4ab3d029e6abcbc2e43f93edeb0ff447b3bbc3a05",
+    "https://edge.netlify.com/bootstrap/edge_function.ts": "b8253e86aa83c67341f5cfedeba5049d77fbf84dcab7eceff7566b7728ae9b39",
+    "https://edge.netlify.com/bootstrap/globals/types.ts": "eaa6148ded3121d8dee62dd91c86e7fe76601df0f3ca8d7962243a30f4c8935f"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@11ty/eleventy-fetch@^5.1.0",
+        "npm:@11ty/eleventy-img@^6.0.4",
+        "npm:@11ty/eleventy-plugin-rss@^2.0.4",
+        "npm:@11ty/eleventy-plugin-syntaxhighlight@^5.0.2",
+        "npm:@11ty/eleventy-plugin-webc@~0.11.2",
+        "npm:@11ty/eleventy@^3.1.2",
+        "npm:@11ty/is-land@^4.0.1",
+        "npm:@toycode/markdown-it-class@^1.2.4",
+        "npm:autoprefixer@^10.4.21",
+        "npm:colorjs.io@~0.5.2",
+        "npm:cross-env@10",
+        "npm:cssnano@^7.1.0",
+        "npm:dayjs@^1.11.13",
+        "npm:dotenv@^17.2.1",
+        "npm:esbuild@~0.25.8",
+        "npm:fast-glob@^3.3.3",
+        "npm:html-minifier-terser@^7.2.0",
+        "npm:js-yaml@^4.1.0",
+        "npm:lite-youtube-embed@~0.3.3",
+        "npm:markdown-it-abbr@2",
+        "npm:markdown-it-anchor@^9.2.0",
+        "npm:markdown-it-attrs@^4.3.1",
+        "npm:markdown-it-emoji@3",
+        "npm:markdown-it-footnote@4",
+        "npm:markdown-it-link-attributes@^4.0.1",
+        "npm:markdown-it-mark@4",
+        "npm:markdown-it-prism@3",
+        "npm:markdown-it@^14.1.0",
+        "npm:netlify-plugin-cache@^1.0.3",
+        "npm:postcss-cli@^11.0.1",
+        "npm:postcss-import-ext-glob@^2.1.1",
+        "npm:postcss-import@^16.1.1",
+        "npm:postcss-js@^4.0.1",
+        "npm:postcss@^8.5.6",
+        "npm:postmark@^4.0.7",
+        "npm:prettier-plugin-jinja-template@^2.1.0",
+        "npm:rimraf@^6.0.1",
+        "npm:sanitize-html@^2.17.0",
+        "npm:sharp-ico@~0.1.5",
+        "npm:sharp@~0.34.3",
+        "npm:slugify@^1.6.6",
+        "npm:stripe@^22.1.1",
+        "npm:svgo@4",
+        "npm:tailwindcss@^3.4.17"
+      ]
+    }
+  }
+}

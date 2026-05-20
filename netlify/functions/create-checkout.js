@@ -1,33 +1,64 @@
-const Stripe = require('stripe');
+import Stripe from "stripe";
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
-exports.handler = async (event) => {
+export async function handler(event) {
   try {
-    const body = JSON.parse(event.body);
+    const { product } = JSON.parse(event.body);
+
+    const products = {
+      "hard-reset": {
+        name: "Hard Reset",
+        price: 4900, // 49.00 RON
+      },
+
+      "lista-lui-beldie": {
+        name: "Lista lui Beldie",
+        price: 2900,
+      },
+
+      "corp-de-animal": {
+        name: "Corp de Animal",
+        price: 3900,
+      },
+    };
+
+    const selectedProduct = products[product];
+
+    if (!selectedProduct) {
+      return {
+        statusCode: 400,
+        body: JSON.stringify({
+          error: "Produs invalid",
+        }),
+      };
+    }
 
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card'],
-      mode: 'payment',
+      payment_method_types: ["card"],
 
       line_items: [
         {
           price_data: {
-            currency: 'ron',
+            currency: "ron",
 
             product_data: {
-              name: body.productName,
+              name: selectedProduct.name,
             },
 
-            unit_amount: body.price,
+            unit_amount: selectedProduct.price,
           },
 
           quantity: 1,
         },
       ],
 
-      success_url: 'https://beldie.ro/multumesc/',
-      cancel_url: 'https://beldie.ro/anulat/',
+      mode: "payment",
+
+      success_url:
+        "http://localhost:8888/succes?session_id={CHECKOUT_SESSION_ID}",
+
+      cancel_url: "http://localhost:8888/anulat",
     });
 
     return {
@@ -36,15 +67,12 @@ exports.handler = async (event) => {
         url: session.url,
       }),
     };
-
   } catch (err) {
-
     return {
       statusCode: 500,
       body: JSON.stringify({
         error: err.message,
       }),
     };
-
   }
-};
+}
