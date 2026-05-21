@@ -163,4 +163,4 @@ Prin urmare, dă click pe butonul de cumpărare de mai jos și ia-ți-l acum:
       </p>
 
 
-**PS**: toate ghidurile mele sunt în format digital (pdf) și sunt livrate pe adresa de email folosită în formularul de cumpărare.
+**PS**: Ghidul Sfarmă Piatră are 250 pagini, este în format PDF și-ți va fi livrat instant pe adresa de email folosită la plată.
