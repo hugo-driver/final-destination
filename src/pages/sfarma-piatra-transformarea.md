@@ -143,18 +143,6 @@ E genul de filosofie care te poate orienta deștept în fiecare moment al vieți
 
 Nu voi munci eu în locul tău, dar citind ghidul, vei fi mult mai convins că trebuie să faci un efort adevărat ca să-nsemni mai mult azi decât ai fost ieri și mai mult mâine decât ai fost azi.
 
-## 5 bonusuri speciale dacă îți iei Sfarmă Piatră acum
-
-Dacă-ți vei lua ghidul până vineri, ora 23:59, vei plăti doar 257 Lei.
-
-Mai mult, cumpărătorii acestui ghid vor primi în momentul livrării ghidului și aceste bonusuri:
-
-1. Cel mai important lucru când te confrunți cu o despărțire (video)
-2. Cum să-ți folosești sentimentul de revoltă în favoarea ta (video)
-3. Ce trebuie să știi despre femeile care sunt paraziți emoționali (pdf)
-4. Cum să te vindeci de sindromul servitorului (pdf)
-5. De ce e important să ai direcție în viață și cum să o găsești (pdf)
-
 Prin urmare, dă click pe butonul de cumpărare de mai jos și ia-ți-l acum:
 
 
