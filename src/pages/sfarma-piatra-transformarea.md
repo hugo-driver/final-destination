@@ -8,7 +8,7 @@ layout: page
 ![Sfarmă Piatră - coperta.](/assets/images/gallery/sfarma-piatra-editia-a-II-a.jpg)
 
 
-**Atenție**: acest ghid este în perioada de vânzare până vineri, 22 mai, ora 23:59 și vine la pachet cu 5 bonusuri speciale. Ai amănuntele mai jos.
+**Atenție**: acest ghid este în perioada de ne-vânzare.
 
 În general, ghidul Sfarmă Piatră se află la vânzare doar o dată pe an, uneori chiar mai rar de atât. 
 
@@ -159,7 +159,7 @@ Prin urmare, dă click pe butonul de cumpărare de mai jos și ia-ți-l acum:
 
 
 <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=GU0aZ" class="button" data-button-variant="primary">Cumpără acum - 49 Euro</a>
+      <a href="https://shop.beldie.ro/buy?link=3SU21" class="button" data-button-variant="primary">Cumpără acum - 9999999999 Euro</a>
       </p>
 
 
