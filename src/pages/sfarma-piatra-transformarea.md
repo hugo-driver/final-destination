@@ -8,7 +8,7 @@ layout: page
 ![Sfarmă Piatră - coperta.](/assets/images/gallery/sfarma-piatra-editia-a-II-a.jpg)
 
 
-**Atenție**: acest ghid este în perioada de ne-vânzare.
+**Atenție: acest ghid este în perioada de ne-vânzare**.
 
 În general, ghidul Sfarmă Piatră se află la vânzare doar o dată pe an, uneori chiar mai rar de atât. 
 
@@ -18,7 +18,7 @@ layout: page
 
 Am scris prima ediție a acestui ghid în urmă cu 10 ani.
 
-Prin urmare, deși principiile care stau la baza tuturor informațiilor publicate anterior rămân valabile, am decis să fac anumite îmbunătățiri.
+Prin urmare, deși principiile care stau la baza tuturor informațiilor publicate anterior rămân valabile, am decis să fac unele îmbunătățiri.
 
 Anumite lucruri au fost ușor modificate, iar altele au fost adăugate pentru că în anumite arii ale vieții au apărut situații care necesită mai multă atenție decât în trecut.
 
@@ -36,7 +36,7 @@ Ultima dată am făcut-o în vara lui 2024, deci a trecut mai bine de un an de a
 
 În rest, site-ul afișează în dreptul său o sumă uriașă de achiziție, astfel încât să nu poată fi cumpărat decât de Elon Musk.
 
-Da, ceva de genul 8.340.538.639.653 Euro.
+Da, ceva de genul 999999999999999 Euro.
 
 În fine, de ce este acest ghid special?
 
@@ -143,7 +143,9 @@ E genul de filosofie care te poate orienta deștept în fiecare moment al vieți
 
 Nu voi munci eu în locul tău, dar citind ghidul, vei fi mult mai convins că trebuie să faci un efort adevărat ca să-nsemni mai mult azi decât ai fost ieri și mai mult mâine decât ai fost azi.
 
-Prin urmare, dă click pe butonul de cumpărare de mai jos și ia-ți-l acum:
+Prin urmare, dă click pe butonul de cumpărare de mai jos și ia-ți-l acum, în caz că se află în perioada de vânzare.
+
+Altfel, abonează-te la email-urile mele și afli când se întâmplă să fie din nou disponibil la un preț normal.
 
 
 <p style="text-align:center;">
