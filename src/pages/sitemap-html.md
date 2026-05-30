@@ -26,6 +26,5 @@ Aici ai lista tuturor paginilor de pe site-ul meu, aranjate într-o manieră cum
 * [Termeni și condiții](https://beldie.ro/termeni-si-conditii/)
 * [Confidențialitate](https://beldie.ro/politica-de-confidentialitate/)
 * [Returnare produse](https://beldie.ro/politica-de-returnare-a-produselor/)
-* [Poluare cuminte](https://beldie.ro/carbon-footprint/)
 * [Sitemap](https://beldie.ro/sitemap/)
 * [Contact](https://beldie.ro/contact/)
