@@ -31,9 +31,6 @@ Fiecare dintre aceste ghiduri rezolvă una sau mai multe dintre problemele cu ca
           <p slot="content">{{ site.description }}</p>
           <footer slot="footer" class="repel">
             <a class="no-indicator" href="{{ site.link }}">{{ site.link | replace("https://", "") }}</a>
-            {% if site.builtbylene %}
-              <span class="gradient-text-linear">built by Lene</span>
-            {% endif %}
           </footer>
         </custom-card>
       {% endfor %}
