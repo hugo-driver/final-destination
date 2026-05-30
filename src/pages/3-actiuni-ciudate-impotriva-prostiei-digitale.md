@@ -3,6 +3,7 @@ title: 3 acțiuni ciudate care te salvează de prostia digitală
 permalink: /3-actiuni-contra-prostiei-digitale/
 description: 'Bonusul pentru noii abonați la site-ul beldie.ro.'
 layout: page
+draft: true
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
