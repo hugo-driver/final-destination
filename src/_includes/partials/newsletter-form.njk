@@ -1,43 +1,25 @@
-<form
-  id="form"
-  action="https://api.berserkermail.com/contact/form"
-  method="post"
-  class="newsletter-form"
->
-  <img
-    alt="view pixel"
-    src="https://api.berserkermail.com/form/pixel/68c165ab40664e6b29c33ded"
-  />
-
+<form class="newsletter-form" novalidate>
   <div class="input-group">
     <input
-      type="text"
-      placeholder="Adresa ta de email"
+      type="email"
       name="email"
-      id="email"
-      required
-      pattern="[a-zA-Z0-9.\-_]{1,}@[a-zA-Z0-9.\-_]{2,}[.]{1}[a-zA-Z]{2,}"
-      title="Please, insert a valid email address."
-    />
-
-    <!-- Honeypot -->
-    <input
-      style="opacity: 0; position: absolute; top: 0; left: 0; height: 0; width: 0; z-index: -1;"
-      type="text"
-      name="username"
-      autocomplete="off"
-    />
-
-    <input
-      type="hidden"
-      name="formId"
-      id="formId"
-      value="68c165ab40664e6b29c33ded"
+      placeholder="Adresa ta de email"
+      autocomplete="email"
+      aria-label="Adresa ta de email"
       required
     />
-
     <button type="submit">Abonare</button>
   </div>
 
-  <p class="form-message" id="form-message"></p>
+  <!-- anti-spam: câmp ascuns; oamenii nu-l văd, boții îl completează -->
+  <input
+    type="text"
+    name="website"
+    tabindex="-1"
+    autocomplete="off"
+    aria-hidden="true"
+    style="position: absolute; left: -5000px"
+  />
+
+  <p class="form-message" role="status" aria-live="polite"></p>
 </form>
