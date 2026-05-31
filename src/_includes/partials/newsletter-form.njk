@@ -1,1 +1,25 @@
-<div class="ml-embedded" data-form="ZoUsIR"></div>
+<form class="newsletter-form" novalidate>
+  <div class="input-group">
+    <input
+      type="email"
+      name="email"
+      placeholder="Adresa ta de email"
+      autocomplete="email"
+      aria-label="Adresa ta de email"
+      required
+    />
+    <button type="submit">Abonare</button>
+  </div>
+
+  <!-- anti-spam: câmp ascuns; oamenii nu-l văd, boții îl completează -->
+  <input
+    type="text"
+    name="website"
+    tabindex="-1"
+    autocomplete="off"
+    aria-hidden="true"
+    style="position: absolute; left: -5000px"
+  />
+
+  <p class="form-message" role="status" aria-live="polite"></p>
+</form>
