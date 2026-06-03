@@ -143,6 +143,6 @@ Oricât de mândru aș fi eu de invenția mea, Hard Reset este major influențat
 Prin urmare, ia-ți ghidul pentru aplicarea metodei Hard Reset și treci la treabă:
 
  <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=OA5hM&ref=beldie.ro" class="button" data-button-variant="secondary">Ia-ți Metoda Hard Reset - 89 Euro</a>
+      <button class="button buy-button" data-button-variant="secondary" data-price-id="price_1TdxAULF51VQ7KF55R6FZ69I">Ia-ți Metoda Hard Reset - 450 lei</button>
       </p>
 
