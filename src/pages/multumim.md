@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
 
-Ți-am trimis link-ul de descărcare pe adresa de email folosită în formularul de plată. Verifică și folderul de spam sau promoții, pentru orice eventualitate.
+Ți-am trimis link-ul de descărcare la adresa de email pe care ai folosit-o la plată. Verifică și folderul de spam sau promoții, pentru orice eventualitate.
 
 Dacă în câteva minute nu primești nimic, scrie-mi la <a href="mailto:stefan@beldie.ro">stefan@beldie.ro</a>.
 
