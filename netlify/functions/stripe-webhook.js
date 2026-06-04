@@ -175,26 +175,31 @@ export async function handler(event) {
           To: customerEmail,
           Subject: "Ghidul tău este aici",
           HtmlBody: `
-            <p>Mulțumesc pentru încredere și pentru achiziție.</p>
-            <p>Îți poți descărca ghidul de la linkul de mai jos. Linkul este valabil <strong>7 zile</strong>:</p>
-            <p>
-              <a href="${signedUrl}" style="background:#222;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:bold;display:inline-block;">
-                Descarcă ghidul
-              </a>
-            </p>
-            <p>Dacă linkul expiră sau ai vreo problemă cu descărcarea, răspunde direct la acest email.</p>
-            <p>Spor,<br>Ștefan</p>
+            <div style="font-family:Arial,sans-serif;font-size:16px;line-height:1.5;color:#222;">
+              <p style="margin:0 0 16px;">Mulțumesc pentru achiziție.</p>
+              <p style="margin:0 0 16px;">Îți poți descărca ghidul folosind linkul de mai jos:</p>
+              <p style="margin:0 0 16px;">
+                <a href="${signedUrl}" style="background:#1A73E8;color:#ffffff;font-family:Arial,sans-serif;font-size:16px;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:bold;display:inline-block;">
+                  Descarcă ghidul
+                </a>
+              </p>
+              <p style="margin:0 0 16px;">Link-ul este valabil <strong>7 zile</strong>.</p>
+              <p style="margin:0 0 16px;">Dacă ai vreo problemă cu descărcarea, trimite-mi un email - <a href="mailto:stefan@beldie.ro" style="color:#1A73E8;">stefan@beldie.ro</a></p>
+              <p style="margin:0;">Log out,<br>Ștefan Beldie.</p>
+            </div>
           `,
-          TextBody: `Mulțumesc pentru pentru achiziție.
+          TextBody: `Mulțumesc pentru achiziție.
 
-Îți poți descărca ghidul folosind linkul de mai jos în următoarele 7 zile:
+Îți poți descărca ghidul folosind linkul de mai jos:
 
 ${signedUrl}
 
-Dacă linkul expiră sau ai vreo problemă cu descărcarea, răspunde direct la acest email.
+Link-ul este valabil 7 zile.
+
+Dacă ai vreo problemă cu descărcarea, trimite-mi un email - stefan@beldie.ro
 
 Log out,
-Ștefan Beldie`,
+Ștefan Beldie.`,
         });
 
         // 6. Tag în MailerLite (izolat — un eșec aici NU oprește livrarea PDF-ului)
