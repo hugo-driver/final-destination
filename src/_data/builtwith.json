@@ -1,50 +1,62 @@
 [
   {
-    "name": "Metoda Hard Reset - 89 Euro",
+    "id": "hard-reset",
+    "name": "Metoda Hard Reset",
     "description": "Cum să-ți resetezi viața cu ajutorul unei metode pe care o folosesc inclusiv în lucrul cu clienții din psihoterapie.",
+    "pret": 450,
+    "priceId": "price_1TdxAULF51VQ7KF55R6FZ69I",
     "filename": "hardreset",
-    "link": "https://beldie.ro/hard-reset/"
+    "link": "https://beldie.ro/hard-reset/",
+    "disponibil": true
   },
-  
-    {
-    "name": "Cum să omori un Social Media Zombie - 49 Euro",
+  {
+    "id": "smz",
+    "name": "Cum să omori un Social Media Zombie",
     "description": "Ghidul care te ajută să evadezi din lumea adicțiilor online - Facebook, Instagram, TikTok, YouTube, Netflix etc.",
+    "pret": 257,
+    "priceId": "price_1TdxEHLF51VQ7KF5RPwZjuhV",
     "filename": "smz",
-    "link": "https://beldie.ro/cum-omori-social-media-zombie-smz/"
+    "link": "https://beldie.ro/cum-omori-social-media-zombie-smz/",
+    "disponibil": true
   },
-
   {
-    "name": "Sfarmă Piatră - Transformarea (Ed. a II-a) - 9999999999999 Euro",
+    "id": "sfarma-piatra",
+    "name": "Sfarmă Piatră - Transformarea (Ed. a II-a)",
     "description": "Cum să-ți transformi viața astfel încât să poți fi cel care ai putea fi",
+    "pret": 257,
+    "priceId": "price_1TdxIJLF51VQ7KF5HoRuBpyq",
     "filename": "sfarma",
-    "link": "https://beldie.ro/sfarma-piatra-transformarea/"
+    "link": "https://beldie.ro/sfarma-piatra-transformarea/",
+    "disponibil": false
   },
-
   {
-    "name": "Lista cu mâncare bună - 79 Euro",
+    "id": "lista-cu-mancare-buna",
+    "name": "Lista cu mâncare bună",
     "description": "Lista cu mâncare bună este o listă a celor mai buni producători și a celor mai bune produse alimentare în opinia mea. Lista se updatează.",
+    "pret": 390,
+    "priceId": "price_1TdxOQLF51VQ7KF5uXWsSDtX",
     "filename": "listacumancarebuna",
-    "link": "https://beldie.ro/lista-cu-mancare-buna/"
+    "link": "https://beldie.ro/lista-cu-mancare-buna/",
+    "disponibil": true
   },
-
   {
-    "name": "Lista lui Beldie - 49 Euro",
+    "id": "lista-lui-beldie",
+    "name": "Lista lui Beldie",
     "description": "Singura listă de servicii și produse folosite de Ștefan Beldie. Ca să știi ce-mi place mie, dar și ce probabil merită să-ți iei și tu dacă ai nevoie de așa ceva.",
+    "pret": 257,
+    "priceId": "price_1TdxhZLF51VQ7KF5F0w2dI1q",
     "filename": "listaluibeldie",
-    "link": "https://beldie.ro/lista-lui-beldie/"
+    "link": "https://beldie.ro/lista-lui-beldie/",
+    "disponibil": true
   },
-
-    {
-    "name": "Un mail pe zi - 97 Euro",
-    "description": "Ghidul Un mail pe zi te învață cum să vinzi prin Email Marketing - cele mai bune tehnici de vânzare a produselor digitale sau a celor fizice.",
-    "filename": "unmailpezi",
-    "link": "https://beldie.ro/cum-sa-vinzi-email-marketing/"
-  },
-
   {
-    "name": "Corp de Animal - 21 Euro",
-    "description": "Dacă te-ai săturat să fii gras și să nu te poți abține când vine vorba de mâncat mâncăruri care te-ngrașă, e timpul să treci la o dietă Paleo",
-    "filename": "corpdeanimal",
-    "link": "https://beldie.ro/corp-de-animal-ghid-de-nutritie-paleo/"
+    "id": "un-mail-pe-zi",
+    "name": "Un mail pe zi",
+    "description": "Ghidul Un mail pe zi te învață cum să vinzi prin Email Marketing - cele mai bune tehnici de vânzare a produselor digitale sau a celor fizice.",
+    "pret": 490,
+    "priceId": "price_1Tdxk2LF51VQ7KF5mTEdPvds",
+    "filename": "unmailpezi",
+    "link": "https://beldie.ro/cum-sa-vinzi-email-marketing/",
+    "disponibil": true
   }
 ]

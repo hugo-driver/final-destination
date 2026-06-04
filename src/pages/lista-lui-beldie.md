@@ -99,7 +99,7 @@ Fiecare categorie include:
 Prin urmare, nu pierde timpul și ia-ți lista acum:
 
 <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=pWqJR" class="button" data-button-variant="primary">Cumpără acum - 49 Euro</a>
+      <button class="button buy-button" data-button-variant="secondary" data-price-id="price_1TdxhZLF51VQ7KF5F0w2dI1q">Ia-ți Lista lui Beldie - 257 lei</button>
       </p>
 
 **PS**: ca în cazul oricărui produs digital, nu există posibilitatea de-a cumpăra și returna produsul. Prin urmare, te rog citește cu atenție informațiile de mai sus ca să știi pe ce dai banii.

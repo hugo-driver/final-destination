@@ -88,7 +88,7 @@ Asta îți oferă ghidul Cum să omori un Social Media Zombie.
 Și te scoate din mocirla tâmpă a utilizării fără scop real profitabil a tehnologiilor moderne.
 
 💡<p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=WylOY" class="button" data-button-variant="primary">Cumpără acum - 49 Euro</a>
+      <button class="button buy-button" data-button-variant="secondary" data-price-id="price_1TdxEHLF51VQ7KF5RPwZjuhV">Ia-ți ghidul SMZ - 257 lei</button>
       </p>
 
 ## Cum te ajută ghidul meu să te dezombifici
@@ -115,7 +115,9 @@ Dincolo de acestea, vei găsi ghid următoarele:
 - **cum să nu fii penibil precum diverși care au reflexe de tip social media** și cred că trebuie să se laude cu orice încercare în care sunt implicați.
 - **multe altele care-ți vor folosi și care-ți vor schimba profund modul în care privești și mai ales folosești tehnologiile moderne.**
 
-[Cumpără acum - 49 Euro](https://shop.beldie.ro/buy?link=WylOY)
+<p style="text-align:center;">
+      <button class="button buy-button" data-button-variant="secondary" data-price-id="price_1TdxEHLF51VQ7KF5RPwZjuhV">Ia-ți ghidul SMZ - 257 lei</button>
+      </p>
 
 ## Ce trebuie să știi neapărat înainte să-ți iei acest ghid
 
@@ -135,8 +137,8 @@ De asemenea, ghidul îți spune și ce ai de făcut ca să nu te infectezi din n
 
 Prin urmare, ia-ți-l acum și treci la treabă:
 
-💡<p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=WylOY" class="button" data-button-variant="primary">Cumpără acum - 49 Euro</a>
+<p style="text-align:center;">
+      <button class="button buy-button" data-button-variant="secondary" data-price-id="price_1TdxEHLF51VQ7KF5RPwZjuhV">Ia-ți ghidul SMZ - 257 lei</button>
       </p>
 
 ****Atenție****: Cum să omori un Social Media Zombie (SMZ) este un produs digital (PDF). Prin urmare, toate vânzările sunt finale și produsul nu poate fi returnat.

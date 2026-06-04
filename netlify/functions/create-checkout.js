@@ -1,78 +1,52 @@
 import Stripe from "stripe";
+// builtwith.json e sursa unică de adevăr pentru produse.
+// esbuild (bundler-ul Netlify) inline-uiește importul de JSON la build.
+// Dacă vreodată bundling-ul se plânge de acest import, înlocuiește
+// allowlist-ul cu o validare simplă de format (priceId.startsWith("price_")).
+import products from "../../src/_data/builtwith.json";
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
+// Doar Price ID-urile din builtwith.json sunt acceptate la checkout.
+const VALID_PRICE_IDS = new Set(
+  products.filter((p) => p.priceId).map((p) => p.priceId)
+);
+
 export async function handler(event) {
+  if (event.httpMethod !== "POST") {
+    return { statusCode: 405, body: "Method Not Allowed" };
+  }
+
   try {
-    const { product } = JSON.parse(event.body);
+    const { priceId } = JSON.parse(event.body || "{}");
 
-    const products = {
-      "hard-reset": {
-        name: "Hard Reset",
-        price: 4900, // 49.00 RON
-      },
-
-      "lista-lui-beldie": {
-        name: "Lista lui Beldie",
-        price: 2900,
-      },
-
-      "corp-de-animal": {
-        name: "Corp de Animal",
-        price: 3900,
-      },
-    };
-
-    const selectedProduct = products[product];
-
-    if (!selectedProduct) {
+    if (!priceId || !VALID_PRICE_IDS.has(priceId)) {
       return {
         statusCode: 400,
-        body: JSON.stringify({
-          error: "Produs invalid",
-        }),
+        body: JSON.stringify({ error: "Produs invalid" }),
       };
     }
 
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ["card"],
-
-      line_items: [
-        {
-          price_data: {
-            currency: "ron",
-
-            product_data: {
-              name: selectedProduct.name,
-            },
-
-            unit_amount: selectedProduct.price,
-          },
-
-          quantity: 1,
-        },
-      ],
-
       mode: "payment",
-
+      line_items: [{ price: priceId, quantity: 1 }],
       success_url:
-        "http://localhost:8888/succes?session_id={CHECKOUT_SESSION_ID}",
-
-      cancel_url: "http://localhost:8888/anulat",
+        "https://beldie.ro/multumim/?session_id={CHECKOUT_SESSION_ID}",
+      cancel_url: "https://beldie.ro/plata-anulata/",
+      billing_address_collection: "required",
+      tax_id_collection: { enabled: true },
+      customer_creation: "always",
+      locale: "ro",
     });
 
     return {
       statusCode: 200,
-      body: JSON.stringify({
-        url: session.url,
-      }),
+      body: JSON.stringify({ url: session.url }),
     };
   } catch (err) {
     return {
       statusCode: 500,
-      body: JSON.stringify({
-        error: err.message,
-      }),
+      body: JSON.stringify({ error: err.message }),
     };
   }
 }

@@ -3,6 +3,44 @@
 {%- js "inline" %} <!-- inlined for all pages -->
 {% include "scripts/is-land.js" %}
 {% include "scripts/theme-toggle.js" %}
+// Butoane de cumparare: trimit priceId la functia create-checkout si duc la Stripe.
+(function () {
+  function bindButtons() {
+    var buttons = document.querySelectorAll(".buy-button[data-price-id]");
+    buttons.forEach(function (btn) {
+      if (btn.dataset.bound) return;
+      btn.dataset.bound = "1";
+      btn.addEventListener("click", function () {
+        var original = btn.textContent;
+        btn.disabled = true;
+        btn.textContent = "Se incarca...";
+        fetch("/.netlify/functions/create-checkout", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ priceId: btn.dataset.priceId })
+        })
+          .then(function (res) { return res.json(); })
+          .then(function (data) {
+            if (data && data.url) {
+              window.location.href = data.url;
+            } else {
+              throw new Error((data && data.error) || "Eroare");
+            }
+          })
+          .catch(function () {
+            btn.disabled = false;
+            btn.textContent = original;
+            alert("A aparut o eroare la initierea platii. Incearca din nou sau scrie-mi la stefan@beldie.ro.");
+          });
+      });
+    });
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", bindButtons);
+  } else {
+    bindButtons();
+  }
+})();
 
 // Newsletter: trimite emailul catre functia Netlify (/.netlify/functions/subscribe),
 // care vorbeste cu MailerLite din server. Nimic nu poate fi blocat de ad-blocker.
