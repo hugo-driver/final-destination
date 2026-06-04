@@ -18,3 +18,9 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
+
+  [[redirects]]
+  from = "/corp-de-animal-ghid-de-nutritie-paleo/"
+  to = "https://www.fiibarbat.ro/corp-de-animal/"
+  status = 301
+  force = true
