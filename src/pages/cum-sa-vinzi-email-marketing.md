@@ -201,5 +201,5 @@ Dincolo de toate acestea, ghidul **Un mail pe zi** te va lămuri în privințe c
 Sau, dacă ești la început, să-ți pornească vânzările:
 
 <p style="text-align:center;">
-      <a href="https://shop.beldie.ro/buy?link=mVtXL" class="button" data-button-variant="primary">Cumpără acum - 97 Euro</a>
+      <button class="button buy-button" data-button-variant="secondary" data-price-id="price_1Tdxk2LF51VQ7KF5mTEdPvds">Ia-ți Un mail pe zi - 490 lei</button>
       </p>
