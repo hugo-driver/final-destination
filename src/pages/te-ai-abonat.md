@@ -9,5 +9,11 @@ excludeFromSitemap: true
 
 Felicitări c-ai dus la capăt sarcina complexă de abonare la mail-urile mele zilnice!
 
-Bonusul pe care ți l-am promis ar trebui să fie deja în inbox-ul tău (verifică și în SPAM / Promoții).
+Bonusul pe care ți l-am promis va ajunge rapid în inbox-ul tău.
+
+Verifică și în SPAM / Promoții pentru orice eventualitate.
+
+Log out,
+
+Ștefan Beldie.
 
