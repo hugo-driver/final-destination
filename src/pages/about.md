@@ -29,8 +29,6 @@ Poți începe să schimbi asta acum:
 - oprește-te din a-ți mai pierde din capacitatea de-a te concentra la lucrurile importante din viața ta.
 - oprește-te din a-ți mai irosi energia și atenția cu acțiuni care nu te duc nicăieri, chiar din contră. 
 
-Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice. 
-
-<strong>După abonare, primești primești un bonus despre cea mai nocivă rețea socială — nu, nu e TikTok:</strong>
+Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice. Imediat după, primești un bonus ddin partea mea — <strong>Cea mai nocivă rețea socială (chiar nu e TikTok) ↓ ↓ ↓</strong>
 
 {% include "partials/newsletter-form.njk" %}
