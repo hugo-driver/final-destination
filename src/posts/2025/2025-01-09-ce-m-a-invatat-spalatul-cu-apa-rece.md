@@ -210,7 +210,3 @@ Atât de rece încât dușurile tale de câteva minute vor fi resimțite în toa
 Mai mult, după ce la finalul lunii februarie ajungi să te obișnuiești cât de cât cu acest supliciu plăcut și incredibil de benefic, temperatura în creștere a apei din martie, aprilie și lunile de vară te va aduce-n toamnă iar în postura de-a experimenta senzații tari și reci.
 
 Nu mă crede pe cuvânt, dar mergi la baie, dezbracă-te, dă drumul la duș și-ncearcă!
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
-
-{% include "partials/newsletter-form.njk" %}

@@ -212,7 +212,3 @@ Pentru că dacă nu acționezi, s-ar putea să acumulezi la rândul tău niște 
 Și-ar fi păcat să nu le folosești ca să faci ceea ce nu faci - să acționezi.
 
 Să începi.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
- {% include "partials/newsletter-form.njk" %}

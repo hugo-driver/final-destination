@@ -133,7 +133,3 @@ De obicei, depinde de Facebook, Instagram, TitTok, YouTube, Netflix etc.
 Asta dacă vrei să dai vina pe alții.
 
 Dacă însă ai chef de sinceritate, totul depinde exclusiv de tine.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

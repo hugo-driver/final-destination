@@ -231,7 +231,3 @@ Pe de altă parte, salariul ți-l dă mereu altcineva, chiar dacă tu ești cel 
 În fine, am învățat că atunci când depinzi doar de tine, limitele de venit sunt cu totul altele decât atunci când depinzi de un angajator.
 
 E mult mai greu, e mult mai riscant, dar poate fi și mult mai profitabil.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

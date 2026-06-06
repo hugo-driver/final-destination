@@ -83,7 +83,3 @@ De ce atât de multe mail-uri?
 Pentru că dacă scrii ceea ce trebuie, vinzi mai bine.
 
 Și cureți lista de oameni care nu-s interesați de ceea ce vinzi, ceea ce reprezintă un mare beneficiu atât pentru tine, cât și pentru ei.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

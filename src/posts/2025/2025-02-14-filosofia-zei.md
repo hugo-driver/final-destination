@@ -127,8 +127,3 @@ Mă interesează să-ncerci să aplici Z.E.I câteva zile.
 E ceva simplu, doar te ghidezi după ceea ce ți-am spus că presupune filosofia Zero Ecrane Inutile. 
 
 Exact ce-i spune și numele, să nu folosești tehnologia pentru chestiuni care nu-ți sunt în mod real utile, favorabile ție.
-
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

@@ -86,8 +86,3 @@ Nu se strofoacă să găsească metode secrete de a face ceva ce știu deja să 
 Urmașii lui Gruh nu suportă să piardă timpul.
 
 Și nu-l pierd, acționează.
-
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

@@ -98,5 +98,3 @@ Ai putea crede că lucrurile cu care nu interacționezi zilnic, așa cum sunt di
 Aproape metaforic vorbind, tot ce deții ocupă un loc în mintea ta. Și tot ce ocupă un loc în mintea ta îți solicită la un moment dat ceva din bugetul tău de atenție / energie nervoasă.
 
 Prin urmare, nu strică să faci această curățenie și să fii mai selectiv pe viitor nu doar pentru securitatea / siguranța ta, ci și pentru mintea ta.
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

@@ -227,6 +227,3 @@ Cu ce mă ajută asta?
 Nu vreau să-ți fur plăcerea de-a-ți imagina singur.
 
 Și, de asemenea, îți las plăcerea de-a verifica singur la ce duce un astfel de obicei - să recitești de multe ori cărțile care-ți sunt utile și măcar de câteva ori cărțile care ți-au plăcut.
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

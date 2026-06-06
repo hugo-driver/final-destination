@@ -161,8 +161,3 @@ Ca lucrurile să meargă repede și bine, m-am bazat pe următoarele unelte
 7. O platformă de vânzare a produselor digitale - [Podia](https://www.podia.com/) / [Gumroad](https://beldie.gumroad.com) / ConvertKit Commerce / PayHip. Oricare poate fi OK.
 
 Spor la treabă!
-
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

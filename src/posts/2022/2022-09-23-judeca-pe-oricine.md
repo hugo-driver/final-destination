@@ -141,8 +141,3 @@ Acceptă asta sau smiorcăie-te că lumea e nedreaptă…
 Nu contează, oricum vom muri cu toții la un moment dat.
 
 Dar despre asta, altădată.
-
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

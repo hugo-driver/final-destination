@@ -222,6 +222,3 @@ De ce aș da peste 300 Euro pentru un astfel de telefon când sunt variante mult
 Pentru că sunt făcute în zilele noastre și teoretic vor face față tehnologic mai mulți ani.
 
 De asemenea, inclusiv prețul crescut ar fi o motivație suplimentară să-l folosesc.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

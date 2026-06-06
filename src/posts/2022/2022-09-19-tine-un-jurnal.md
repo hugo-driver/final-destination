@@ -163,7 +163,3 @@ Obișnuiesc să-mi scriu gândurile și să fac liste de lucruri pe care vreau s
 Simplu și eficient.
 
 Este de-ajuns.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
-
-{% include "partials/newsletter-form.njk" %}

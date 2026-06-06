@@ -89,6 +89,3 @@ Sau poate să cumpere produsul tău cel "neoriginal" și să primească totul ra
 Niciodată nu subestima economia de timp și de energie pe care produsul tău digital o poate oferi.
 
 Din contră, pune un preț bun și vinde-o!
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

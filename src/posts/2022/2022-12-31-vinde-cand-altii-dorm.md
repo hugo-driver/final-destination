@@ -61,7 +61,3 @@ Sigur, inclusiv o parte dintre clienți dorm în această perioadă, dar la un m
 Și poate vor cumpăra sau poate doar vor constata că ai ceva bun de vândut.
 
 Și chiar dacă nu vor cumpăra acum, vor ține minte că tu exiști și oferta ta există.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

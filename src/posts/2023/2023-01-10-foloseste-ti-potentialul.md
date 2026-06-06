@@ -113,7 +113,3 @@ Orice.
 Numai să nu lase viața să treacă pe lângă ei.
 
 Sau, și mai rău, să lase viața să-i trăiască pe ei în loc să o trăiască ei pe ea.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

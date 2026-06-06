@@ -113,7 +113,3 @@ Nu trebuie să fii miliardar în dolari ca Warren Buffett sau unul dintre cei ma
 Important este doar să-ți privești un pic propria viață și să faci câteva alegeri.
 
 Nu de alta, dar orice reorientarea de energie și timp către [obiective cu adevărat importante](https://beldie.ro/cum-sa-ti-stabilesti-obiective-realizabile/) reprezintă un mare câștig.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
- {% include "partials/newsletter-form.njk" %}

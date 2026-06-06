@@ -194,7 +194,3 @@ Acceptă că, uneori, pot apărea rateuri.
 Acceptă însă că dacă faci acțiuni concrete spre anumite direcții, entuziasmul are șanse mari să apară.
 
 Și după el, urmează pasiunea.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
- {% include "partials/newsletter-form.njk" %}

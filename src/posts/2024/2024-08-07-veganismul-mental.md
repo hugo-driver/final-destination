@@ -43,6 +43,3 @@ Ai putea crede că toată societatea actuală suferă de veganism mental, dar as
 Desigur, tendința este ca boala aceasta să se extindă și să-i transforme pe oamenii care sunt oameni în oameni care vor fi doar niște recipiente de colectare a tot ceea ce varsă marile corporații în ei.
 
 Un fel de zombie ușor manevrați de la distanță de cei care i-au ajutat să se transforme.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

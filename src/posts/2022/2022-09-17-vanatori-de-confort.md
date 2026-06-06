@@ -128,7 +128,3 @@ Sau să identifici un lucru pe care nu ai avea chef să-l faci sub nicio formă 
 Sau să accepți pur și simplu că nu trebuie ca totul să fie perfect.
 
 E ok și imperfecțiunea, mai ales când e vorba de confort.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

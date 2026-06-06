@@ -111,7 +111,3 @@ Nu există cuvântul “copietate”, dar fac ce vreau pe site-ul meu.
 1. [Șterge-ți toate conturile inutile](https://beldie.ro/cresti-rapid-siguranta-online/)
 2. [Folosește parole unice greu de spart](https://beldie.ro/parola/)
 3. [Folosește un VPN care nu te vinde - ex. Mullvad, IVPN](https://beldie.ro/vpn/)
-
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

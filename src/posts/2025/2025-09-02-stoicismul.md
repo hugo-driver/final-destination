@@ -143,7 +143,3 @@ De exemplu, Beck ilustrează teoria cognitivă a emoțiilor printr-un citat din 
 > (Beck, 1976, p. 156).
 
 Prin intermediul scrierilor acestor autori moderni, ideile stoice s-au răspândit în cultura vestică chiar dacă rareori le-a fost identificată originea.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
-
-{% include "partials/newsletter-form.njk" %}

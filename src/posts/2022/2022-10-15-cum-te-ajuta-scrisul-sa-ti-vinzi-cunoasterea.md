@@ -191,5 +191,3 @@ Documentarea înseamnă progresul cunoașterii tale, lucru care iar te duce la s
 În fine, de multe ori, cineva care se documentează despre un subiect care-l pasionează poate să aibă o capacitate mai bună de predare a respectivelor cunoștințe decât un super specialist care nu mai are habar ce-nseamnă să fii începător.
 
 Nu e o chestiune generală, dar e o chestiune frecventă.
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

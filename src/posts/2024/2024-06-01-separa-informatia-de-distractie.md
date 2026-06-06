@@ -107,7 +107,3 @@ Adică recunoști față de tine însuți că de fapt nu ai nevoie de informare,
 Dar la fel de bun este și [Reeder](https://reederapp.com/).
 
 Iar dacă ai Android / Windows sau vrei o interfață web, [Inoreader](https://www.inoreader.com/) poate fi o foarte bună soluție.
-
-#### Alt lucru deștept pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
- {% include "partials/newsletter-form.njk" %}

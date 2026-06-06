@@ -123,6 +123,3 @@ Genul de liniște pe care o pierzi atunci când încerci să complici lucrurile 
 Când vine vorba de a vinde produse și servicii online, a pune miere în borcane înseamnă să te ții de lucrurile de bază, care și-au dovedit eficiența.
 
 Să nu te complici inutil doar pentru că alții o fac.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

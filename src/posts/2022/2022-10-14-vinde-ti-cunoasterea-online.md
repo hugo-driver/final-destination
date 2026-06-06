@@ -158,7 +158,3 @@ Prin urmare, te-ncurajez să fii curajos și să-ncepi să-ți vinzi cunoaștere
 Și să îndeplinești [condiția esențială ca să ai succes online](https://beldie.ro/conditia-esentiala-vinzi-online/).
 
 Ce nu te sfătuiesc este să fii bleg și să crezi că succesul vine instant, fără muncă.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

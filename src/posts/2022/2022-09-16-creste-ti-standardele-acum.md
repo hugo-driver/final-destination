@@ -142,6 +142,3 @@ Nu pentru că așa te-ai născut tu, ci pentru că așa te-ai antrenat tu să fi
 Ia-o cu începutul și acordă toată atenția ta standardelor mărunte.
 
 Va conta mai mult decât crezi.
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

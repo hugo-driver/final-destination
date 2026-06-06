@@ -179,7 +179,3 @@ Alteori, realitatea este că ar trebui să mergi mai departe și să te elimini 
 Nu poți influența decât ceea ce se află sub controlul tău, iar atitudinile altora categoric nu se află în această arie. Poate să nu fie plăcut, dar pe termen lung este sănătos.
 
 Tare sănătos.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

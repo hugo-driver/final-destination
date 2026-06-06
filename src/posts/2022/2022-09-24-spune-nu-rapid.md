@@ -115,6 +115,3 @@ Mai mult, dacă acel “nu” produce o ruptură între tine și cel pe care-l r
 **Cititorul impacientat**: N-ar fi mai bine să faci o analiză cost – beneficii și să iei apoi o decizie bazată pe o analiză serioasă? Dacă vrei, îți pot da link spre un site care te ajută să faci asta la modul profi.
 
 **Eu**: Pleacă, mă, de aici
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

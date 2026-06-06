@@ -202,7 +202,3 @@ De asta suntem grași.
 💡
 
 2\. Aproximativ 35 ani ar fi durata medie de viață a omului primitiv conform celor mai multe studii. O simplă julitură se putea infecta și duce la deces.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

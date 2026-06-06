@@ -251,7 +251,3 @@ Realitatea este că dacă cineva dat naibii de priceput în probleme de securita
 Partea bună este însă că respectivii indivizi capabili de așa ceva nu sunt atât de mulți sau atât de preocupați de tine încât să te aleagă ca victimă.
 
 În schimb, măsurile de securitate simple de care ți-am vorbit mai sus te protejează împotriva unui număr mare de indivizi care nu sunt deținătorii unei cunoașteri speciale în domeniul hacking-ului, dar profită de faptul că tu ai ales din start să ai un nivel foarte scăzut de securitate.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
-
-{% include "partials/newsletter-form.njk" %}

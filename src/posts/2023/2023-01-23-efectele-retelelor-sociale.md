@@ -109,5 +109,3 @@ Exagerez?
 Consumul acesta masiv de Facebook, Instagram, TikTok, Twitter, Netflix etc. nu te-mpiedică să descoperi leacul pentru cancer.
 
 Dar te-mpiedică să exiști cu adevărat chiar în propria ta lume.
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

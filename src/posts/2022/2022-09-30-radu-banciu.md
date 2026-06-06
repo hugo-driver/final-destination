@@ -126,7 +126,3 @@ Totuși, cred că fiecăruia dintre noi ne-ar prinde bine să fim mai clari și 
 - cei din jur devin la rândul lor conștienți de ceea ce ești / cine ești
 
 Și-n noile condiții, e destul de probabil să te bucuri un pic mai mult de viața pe care o ai și un pic mai puțin de problemele pe care le au alții.
-
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

@@ -339,6 +339,3 @@ E simplu, nu?
 Simplu, nu neapărat ușor.
 
 Oricum, merită încercat.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

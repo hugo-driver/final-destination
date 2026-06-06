@@ -121,7 +121,3 @@ Prin urmare, s-ar simți mai bine dacă ai rata și tu alături de ei.
 Dacă n-ai mai fi atât de extremist în alegerile tale.
 
 E ok, în anumite privințe, chiar merită să fii.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

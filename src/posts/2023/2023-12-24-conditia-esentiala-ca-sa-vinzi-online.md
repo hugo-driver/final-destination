@@ -151,7 +151,3 @@ Dacă există o piață pentru produsul / serviciul tău, probabilitatea să ai 
 Dacă mai și rafinezi un pic procesul de vânzare printr-un marketing decent, deja intri într-o zonă de siguranță a succesului.
 
 În fine, dacă și livrezi ceea ceea ce vinzi, deja ești mare vânzător online.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

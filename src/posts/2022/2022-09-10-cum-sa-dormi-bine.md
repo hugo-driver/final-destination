@@ -247,7 +247,3 @@ Dincolo de eliminarea factorilor nocivi pe care i-am menționat mai sus, există
  4. fă-ți întuneric beznă în camera-n care dormi. Atât de-ntuneric, încât să ai probleme să găsești diverse lucruri de prin cameră.
  5. culcă-te și trezește-te la aceeași oră chiar și-n zilele-n care nu mergi la muncă. Obișnuința face minuni, iar ogranismul nostru tânjește după automatisme de acest tip
  6. Dacă n-ai dormit suficient în noaptea precedentă, încearcă să te folosești de un așa zis power nap în timpul zilei – 15 până la 20 minute de somn care te vor ajuta să-ți recapeți o parte însemnată din energia pierdută
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-  {% include "partials/newsletter-form.njk" %}

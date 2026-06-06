@@ -175,7 +175,3 @@ Să primești sunet și imagine fără ca tu să faci vreun efort e ceva care te
 Nu sună bine, dar ăsta-i efectul privitului în exces la TV.
 
 Iar dacă-mi vei spune că a urmări seriale pe net nu e privit la TV în exces, dovedești prin propria persoană că Sartori avea dreptate.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

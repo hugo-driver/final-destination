@@ -327,6 +327,3 @@ Aceste gânduri sunt cele mai frecvente în mintea celor care abandonează, a ce
 Lasă-le să treacă și ține-te de treabă.
 
 Te asigur, chiar merită.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

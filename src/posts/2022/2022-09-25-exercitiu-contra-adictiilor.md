@@ -209,6 +209,3 @@ Acum, după cum îți poți da seama, tipul acesta de exercițiu e adaptabil la 
 Îți imaginezi și apoi pui în practică scenariul favorabil imaginat.
 
 Simplu, direct și fără explozii necontrolate.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

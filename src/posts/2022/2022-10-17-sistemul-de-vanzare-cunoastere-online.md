@@ -167,6 +167,3 @@ Zilele următoare continui să dau câte 3-4-5-6 mail-uri / zi în care accentul
 Care este rezultatul?
 
 Unul care mă face să repet iar și iar întreaga operațiune de mai bine de 15 ani.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

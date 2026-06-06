@@ -205,7 +205,3 @@ De exemplu**:**
 1. [**Metoda Hard Reset**](https://beldie.ro/hard-reset/)
 2. [**Cum să omori un Social Media Zombie (SMZ)**](https://beldie.ro/cum-omori-social-media-zombie-smz/)
 3. [**Lasă-te de "albă"! - Cum să scapi din sclavia masturbării**](https://www.fiibarbat.ro/lasa-te-de-alba/)
-
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

@@ -225,7 +225,3 @@ Dacă va scrie și va filma, va deveni specialist nu doar în ochii abonaților 
 Dacă va scrie și va filma, nu va vinde abonamente doar pentru sala pentru care lucrează acum, ci și bilete de acces la cursurile sale, la seminariile sale, la informațiile sale.
 
 Va vinde accesul la propria sa cunoaștere, lucru care este posibil pentru oricine știe ceva suficient de valoros încât să aducă beneficii și altora.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

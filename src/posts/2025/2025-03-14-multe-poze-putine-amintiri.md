@@ -118,7 +118,3 @@ Am oprit pe dreapta pentru a scoate telefonul să “imortalizez” momentul și
 PS: uită-te la acest filmuleț și încearcă să-i ții minte ideea principală:
 
 <iframe width="500" height="350" src="https://www.youtube.com/embed/zLVnpqdmuKM?start=90&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="נתניהו: &quot;תפסיקו לצלם כל היום&quot; &quot; netanyahu: &quot;You're all slaves to gadget"></iframe>
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-
-{% include "partials/newsletter-form.njk" %}

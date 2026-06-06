@@ -140,6 +140,3 @@ Cu anxietatea.
 De asta, e important să nu te grăbești.
 
 Nu doar pentru beneficiile lipsei de grabă în foarte multe situații, ci și pentru a te feri de ceea ce nu ești.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}

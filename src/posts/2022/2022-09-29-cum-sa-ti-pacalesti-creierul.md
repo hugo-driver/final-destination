@@ -175,6 +175,3 @@ Dacă o faci suficient de des, măcar și printr-o simplă amânare a momentului
 În timp, vei vedea că genul acesta de acțiuni teroriste au un efect interesant – îți oferă posibilitatea să-ți recapeți controlul asupra acțiunilor tale.
 
 Nu ca un cyborg, ci ca un om care se poate orienta apoi mult mai ușor spre obiceiuri profitabile.
-
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
-{% include "partials/newsletter-form.njk" %}
