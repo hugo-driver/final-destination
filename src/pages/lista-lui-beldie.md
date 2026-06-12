@@ -46,7 +46,7 @@ Concret, este vorba de:
 4. **Cosmetice** - **13 recomandări** - în ciuda aspectului meu fizic impresionant, folosesc anumite produse cosmetice la fel ca majoritatea oamenilor. De la săpun la pastă de dinți și de la cremă de față tot la cremă de față.
 5. **Suplimente alimentare** – **4 mențiuni** - cred în valoarea aproape absolută a unei alimentații specifice speciei umane (în mare, carnivoră), dar există câteva suplimente la care apelez în mod curent.
 6. **Transport** - **20 recomandări -** de la mașini la biciclete, de la biciclete pentru adulți la biciclete pentru copii, de la scoici auto pentru bebeluși la scaune auto pentru copii, de la toate nimicurile la toate chestiile importante - 20 de recomandări.
-7. **Altele - 19 recomandări** - deși e o categorie cu nume banal, este totuși una dintre cele mai spectaculoase categorii din listă pentru că include ceea ce nu puteam include în altă categorie, dar merită menționat.
+7. **Altele - 20 recomandări** - deși e o categorie cu nume banal, este totuși una dintre cele mai spectaculoase categorii din listă pentru că include ceea ce nu puteam include în altă categorie, dar merită menționat.
 
 ## Cu cât sunt plătit ca să-ți fac ție recomandările din listă
 
