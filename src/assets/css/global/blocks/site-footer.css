@@ -6,6 +6,11 @@
 .site-footer a:not(.creator a) {
   padding: var(--space-xs);
 }
+
+.site-footer a:not(.creator a):hover {
+  color: var(--color-primary);
+}
+
 .site-footer .creator a:hover {
   color: transparent;
   background-image: var(--gradient-conic);

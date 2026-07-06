@@ -21,7 +21,7 @@
   gap: var(--button-gap);
   padding: var(--button-padding);
   background: var(--button-bg);
-  color: var(--button-color);
+  color: var(--button-color) !important;
   border-width: var(--button-border-width);
   border-style: var(--button-border-style);
   border-color: var(--button-border-color);
@@ -48,7 +48,7 @@
 .button[aria-pressed='true'],
 .button[data-state='active'] {
   background: var(--button-hover-bg);
-  color: var(--button-color);
+  color: var(--button-color) !important;
 }
 
 .button:focus {
@@ -89,7 +89,7 @@
   --_ghost-hover-bg: var(--color-bg);
   --_ghost-hover-bg: color-mix(in oklab, var(--button-bg) 95%, var(--color-dark));
   background: var(--_ghost-hover-bg);
-  color: var(--button-color);
+  color: var(--button-color) !important;
 }
 
 .button[data-small-button] {

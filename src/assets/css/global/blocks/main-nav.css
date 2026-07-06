@@ -141,8 +141,8 @@ body:has([data-drawer-toggle][aria-expanded='true']) {
 
 .mainnav :is(a, [data-submenu-toggle]):hover {
   --nav-item-background: transparent;
-  --nav-item-text-color: var(--color-text);
-  --nav-item-decoration-color: var(--color-bg-accent-2);
+  --nav-item-text-color: var(--color-primary);
+  --nav-item-decoration-color: var(--color-primary);
 }
 
 .mainnav [aria-current='page'],
