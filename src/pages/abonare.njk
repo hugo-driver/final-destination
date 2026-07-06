@@ -1,0 +1,24 @@
+---
+layout: base
+title: Pixel vs Neuron
+description: 'Abonează-te la Pixel vs Neuron și primești gratuit ghidul „Cea mai nocivă rețea socială — nu este TikTok".'
+permalink: '/abonare/'
+eleventyExcludeFromCollections: true
+---
+
+<div class="wrapper">
+  <header class="full | section" style="--spot-color: var(--color-primary)">
+    <div class="section__inner flow region">
+      <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
+    </div>
+    {% svg "divider/waves", null, "divider" %}
+  </header>
+
+  <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl); text-align: center;">
+    <h2>Care e cea mai nocivă rețea socială? (Nu, nu e TikTok.)</h2>
+    <p>Abonează-te la Pixel vs Neuron și primești gratuit ghidul în care îți arăt care e — și cum o aduci sub control.</p>
+    <p>Pixel vs Neuron e newsletterul meu despre cum să folosești tehnologia în loc să te lași folosit de ea. Direct, aplicat, fără spam.</p>
+    {% include "partials/newsletter-form.njk" %}
+    <p><small>Te dezabonezi oricând, dintr-un singur click.</small></p>
+  </div>
+</div>
