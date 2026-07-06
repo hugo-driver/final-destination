@@ -52,6 +52,12 @@
   color: var(--color-dark);
 }
 
+/* linkuri din interiorul textului (paragrafe, liste, citate) - albastru */
+.prose :is(p, li, dl, blockquote) a {
+  color: var(--color-primary);
+  text-decoration-line: underline;
+}
+
 /* block space only for "regular lists" and sublists */
 .prose :is(ul, ol):not([class]) li + li,
 .prose :is(ul, ol):not([class]) li > :is(ol, ul) {
