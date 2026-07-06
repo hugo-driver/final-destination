@@ -8,7 +8,7 @@ tags:
     - simplitate
 categories: []
 permalink: /cum-folosesc-ai-ul/
-slug: modul-țărănesc-in-care-folosesc-ai-ul-pilot-copilot
+slug: cum-folosesc-ai-ul
 ---
 
 
