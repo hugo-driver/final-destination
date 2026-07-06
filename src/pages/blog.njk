@@ -16,9 +16,11 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber
     {% svg "divider/waves", null, "divider" %}
   </header>
 
-  <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl)">
-    <p style="text-align: center;">Aici găsești textele scrise de mine pe acest site. Când scriu ceva nou, afli instant dacă ești abonat prin email. După abonare, primești și bonusul <strong>Cea mai nocivă rețea socială (chiar nu este TikTok) ↓ ↓ ↓</strong></p>
-    {% include "partials/newsletter-form.njk" %}
+  <div class="region flow" style="--region-space-top: var(--space-xl-2xl)">
+    <div class="flow" style="max-width: 34rem; margin-left: auto; margin-right: auto; text-align: center;">
+      <p style="text-align: center !important; display: block !important; width: 100% !important; max-width: 100% !important; margin: 0 auto !important;">Aici găsești textele scrise de mine pe acest site. Când scriu ceva nou, afli instant dacă ești abonat prin email. După abonare, primești și bonusul <strong>Cea mai nocivă rețea socială (chiar nu este TikTok) ↓ ↓ ↓</strong></p>
+      {% include "partials/newsletter-form.njk" %}
+    </div>
   </div>
 
   <custom-masonry layout="50-50">
