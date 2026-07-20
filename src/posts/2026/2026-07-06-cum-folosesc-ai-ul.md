@@ -22,7 +22,7 @@ Simplul fapt că eu consider super ghei să pui AI-ul să-ți scrie textele pe c
 
 Deci fiecare ar trebui să facă ce vrea și să fie cum vrea.
 
-Exact mine.
+Exact ca mine.
 
 În fine, înainte de așa-zisa inteligență artificială, marea mea calitate legată de online era că știam să găsesc absolut orice cu ajutorul google sau unor motoare de căutare obscure.
 
