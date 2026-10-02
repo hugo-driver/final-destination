@@ -7,7 +7,7 @@
 // Îl găsești în MailerLite: Subscribers → Groups → click pe grup → numărul din URL.
 const GROUP_ID = "188931986851628206";
 
-exports.handler = async (event) => {
+export const handler = async (event) => {
   if (event.httpMethod !== "POST") {
     return json(405, { error: "Method not allowed" });
   }
