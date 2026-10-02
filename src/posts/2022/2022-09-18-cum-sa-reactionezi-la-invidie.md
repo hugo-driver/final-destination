@@ -143,7 +143,7 @@ E genul de idee pe care media ne-o picură constant în minte.
 
 Gândește-te la toate acele show-uri televizate / articole de presă / conturi de social media care promovează diverse personaje aflate aparent în situații extrem de fericite fără să fi făcut vreun efort.
 
-Femei care au soți bogați [doar pentru că sunt frumoase și atât](https://www.fiibarbat.ro/nu-te-teme-de-curve/?ref=beldie.ro).
+Femei care au soți bogați doar pentru că sunt frumoase și atât.
 
 Fotbaliști analfabeți care au milioane de Euro doar pentru că au primit un anume contract.
 

@@ -146,7 +146,7 @@ Pur și simplu, capeți o toleranță mult mai mare la „durerea” pe care ți
 
 La ce activități mă refer?
 
-Fiecare are obstacolele sale, iar lista poate fi foarte variată – scrisul zilnic, sportul, concentrarea asupa unor proiecte, autocontrol în relație cu mâncărurile gustoase, dar date naibii de nocive, [autocontrol în relație cu tot felul de vicii](https://www.fiibarbat.ro/lasa-te-de-alba/?ref=beldie.ro) etc.
+Fiecare are obstacolele sale, iar lista poate fi foarte variată – scrisul zilnic, sportul, concentrarea asupa unor proiecte, autocontrol în relație cu mâncărurile gustoase, dar date naibii de nocive, autocontrol în relație cu tot felul de vicii etc.
 
 În atâția ani, am avut o singură tentativă de răceală
 -----------------------------------------------------

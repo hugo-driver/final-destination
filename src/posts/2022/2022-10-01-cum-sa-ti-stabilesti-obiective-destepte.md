@@ -154,7 +154,7 @@ Această întâmplare, dar și faptul că-și deschidea singur poarta împingân
 
 În fine, când m-am suit prima dată pe Costel, mă aflam în postura celui care nu mai călărise niciodată, dar care-și dorea să facă exact ceea ce văzuse prin filme.
 
-Adică să prind o viteză cât mai mare, eventual să-mi dea lacrimile din cauza curentului, [așa cum auzisem că i se-ntâmpla bunicului meu în tinerețe](https://www.fiibarbat.ro/cateva-lucruri-destepte-invatate-de-la-conte/).
+Adică să prind o viteză cât mai mare, eventual să-mi dea lacrimile din cauza curentului, așa cum auzisem că i se-ntâmpla bunicului meu în tinerețe.
 
 Problema este că până să ajungi la galop, calul trece prin trap. Iar la trap, un călăreț fără experiență aflat pe spatele unui cal precum Costel este zguduit zdravăn.
 
@@ -204,4 +204,3 @@ De exemplu**:**
 
 1. [**Metoda Hard Reset**](https://beldie.ro/hard-reset/)
 2. [**Cum să omori un Social Media Zombie (SMZ)**](https://beldie.ro/cum-omori-social-media-zombie-smz/)
-3. [**Lasă-te de "albă"! - Cum să scapi din sclavia masturbării**](https://www.fiibarbat.ro/lasa-te-de-alba/)
