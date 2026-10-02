@@ -1,22 +1,4 @@
 {
-    "frontMatter.content.pageFolders": [
-        {
-            "path": "[[workspace]]/src/posts/2022",
-            "title": "2022"
-        },
-        {
-            "path": "[[workspace]]/src/posts/2024"
-        },
-        {
-            "path": "[[workspace]]/src/posts/2025"
-        },
-        {
-            "path": "[[workspace]]/src/posts/2023"
-        },
-        {
-            "path": "[[workspace]]/src/posts/2026"
-        }
-    ],
     "[markdown]": {
         "editor.fontSize": 14,
         "editor.lineHeight": 26,
