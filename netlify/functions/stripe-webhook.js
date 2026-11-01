@@ -22,6 +22,7 @@ const PRODUCTS = {
   "price_1TdxOQLF51VQ7KF5uXWsSDtX": { pdf: "listacumancarebuna.pdf", tag: "lista-cu-mancare-buna" }, // Lista cu mâncare bună
   "price_1TdxhZLF51VQ7KF5F0w2dI1q": { pdf: "listaluibeldie.pdf", tag: "lista-lui-beldie" }, // Lista lui Beldie
   "price_1Tdxk2LF51VQ7KF5mTEdPvds": { pdf: "unmailpezi.pdf", tag: "un-mail-pe-zi" }, // Un mail pe zi
+  "price_1UWzSxLF51VQ7KF51xAvOKvx": { pdf: "vanare-de-vant.pdf", tag: "vanare-de-vant" }, // Vânare de vânt (produs de test)
 };
 
 // Tag-ul pe care îl primește ORICE cumpărător, pe lângă tag-ul produsului.
