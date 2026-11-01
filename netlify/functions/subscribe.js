@@ -1,11 +1,15 @@
 // netlify/functions/subscribe.js
-// Primește un email de la formularul de newsletter și îl adaugă în MailerLite,
-// în grupul "Pixel vs Neuron", ca abonat neconfirmat (pentru double opt-in).
-// Emailul de confirmare îl trimite MailerLite — vezi nota de la "status" mai jos.
+// Primește un email de la formularul de newsletter și trimite în Bento
+// evenimentul "abonare_beldie". Evenimentul creează contactul (dacă nu există)
+// și pornește flow-ul "Confirmare abonare beldie.ro" din Bento, care:
+//   1. îl marchează ca dezabonat până confirmă (double opt-in),
+//   2. îi trimite emailul "Confirmă abonarea la beldie.ro",
+//   3. la click pe link îl abonează și îi pune tag-ul "pixel-vs-neuron".
+//
+// Variabile de mediu necesare în Netlify (Site configuration -> Environment variables):
+//   BENTO_PUBLISHABLE_KEY, BENTO_SECRET_KEY, BENTO_SITE_UUID
 
-// ID-ul grupului "Pixel vs Neuron".
-// Îl găsești în MailerLite: Subscribers → Groups → click pe grup → numărul din URL.
-const GROUP_ID = "188931986851628206";
+const EVENT_TYPE = "abonare_beldie";
 
 exports.handler = async (event) => {
   if (event.httpMethod !== "POST") {
@@ -32,36 +36,45 @@ exports.handler = async (event) => {
     return json(400, { error: "Adresă de email invalidă." });
   }
 
-  const apiKey = process.env.MAILERLITE_API_KEY;
-  if (!apiKey) {
-    console.error("Lipsește MAILERLITE_API_KEY din environment.");
+  const publishableKey = process.env.BENTO_PUBLISHABLE_KEY;
+  const secretKey = process.env.BENTO_SECRET_KEY;
+  const siteUuid = process.env.BENTO_SITE_UUID;
+  if (!publishableKey || !secretKey || !siteUuid) {
+    console.error("Lipsesc variabilele BENTO_PUBLISHABLE_KEY / BENTO_SECRET_KEY / BENTO_SITE_UUID din environment.");
     return json(500, { error: "Configurare lipsă pe server." });
   }
 
+  const auth = Buffer.from(`${publishableKey}:${secretKey}`).toString("base64");
+  const url = `https://app.bentonow.com/api/v1/batch/events?site_uuid=${encodeURIComponent(siteUuid)}`;
+
   try {
-    const res = await fetch("https://connect.mailerlite.com/api/subscribers", {
+    const res = await fetch(url, {
       method: "POST",
       headers: {
-        Authorization: `Bearer ${apiKey}`,
+        Authorization: `Basic ${auth}`,
         "Content-Type": "application/json",
         Accept: "application/json",
+        "User-Agent": "beldie-ro-subscribe/1.0",
       },
       body: JSON.stringify({
-        email: email,
-        groups: [GROUP_ID],
-        // NU setăm "status" intenționat: lăsăm setarea contului să decidă.
-        // Cu "Double opt-in for API and integrations" = ON, abonatul nou intră
-        // ca neconfirmat și primește emailul de confirmare în română.
-        // (Dacă acea setare e OFF, NU se trimite nicio confirmare — de-aia trebuie ON.)
+        events: [
+          {
+            type: EVENT_TYPE,
+            email: email,
+            details: { source: "beldie.ro" },
+          },
+        ],
       }),
     });
 
-    if (res.ok) {
+    const data = await res.json().catch(() => ({}));
+
+    // Bento răspunde cu {"results": N, "failed": M}.
+    if (res.ok && !(data && data.failed > 0)) {
       return json(200, { ok: true });
     }
 
-    const data = await res.json().catch(() => ({}));
-    console.error("MailerLite a răspuns cu eroare:", res.status, JSON.stringify(data));
+    console.error("Bento a răspuns cu eroare:", res.status, JSON.stringify(data));
     return json(502, { error: "Nu am putut procesa abonarea. Mai încearcă o dată." });
   } catch (err) {
     console.error("Eroare în funcția subscribe:", err);
