@@ -14,40 +14,52 @@ const s3 = new AWS.S3({
   region: "auto",
 });
 
-// Price ID Stripe -> { pdf: cheia din R2, group: ID grup MailerLite al produsului }
+// Price ID Stripe -> { pdf: cheia din R2, tag: tag-ul Bento al produsului }
 const PRODUCTS = {
-  "price_1TdxAULF51VQ7KF55R6FZ69I": { pdf: "hardreset.pdf", group: "188933005604029798" }, // Hard Reset
-  "price_1TdxEHLF51VQ7KF5RPwZjuhV": { pdf: "smz.pdf", group: "188933523223086246" }, // Social Media Zombie
-  "price_1TdxIJLF51VQ7KF5HoRuBpyq": { pdf: "sfarma.pdf", group: "188933705425749714" }, // Sfarmă Piatră
-  "price_1TdxOQLF51VQ7KF5uXWsSDtX": { pdf: "listacumancarebuna.pdf", group: "188933195319739580" }, // Lista cu mâncare bună
-  "price_1TdxhZLF51VQ7KF5F0w2dI1q": { pdf: "listaluibeldie.pdf", group: "188933377788741391" }, // Lista lui Beldie
-  "price_1Tdxk2LF51VQ7KF5mTEdPvds": { pdf: "unmailpezi.pdf", group: "188933829388404002" }, // Un mail pe zi
+  "price_1TdxAULF51VQ7KF55R6FZ69I": { pdf: "hardreset.pdf", tag: "hard-reset" }, // Hard Reset
+  "price_1TdxEHLF51VQ7KF5RPwZjuhV": { pdf: "smz.pdf", tag: "social-media-zombie" }, // Social Media Zombie
+  "price_1TdxIJLF51VQ7KF5HoRuBpyq": { pdf: "sfarma.pdf", tag: "sfarma-piatra-2" }, // Sfarmă Piatră
+  "price_1TdxOQLF51VQ7KF5uXWsSDtX": { pdf: "listacumancarebuna.pdf", tag: "lista-cu-mancare-buna" }, // Lista cu mâncare bună
+  "price_1TdxhZLF51VQ7KF5F0w2dI1q": { pdf: "listaluibeldie.pdf", tag: "lista-lui-beldie" }, // Lista lui Beldie
+  "price_1Tdxk2LF51VQ7KF5mTEdPvds": { pdf: "unmailpezi.pdf", tag: "un-mail-pe-zi" }, // Un mail pe zi
 };
 
-// Grupul în care intră ORICE cumpărător, pe lângă grupul produsului.
-const CLIENT_GROUP = "188932794078987301";
+// Tag-ul pe care îl primește ORICE cumpărător, pe lângă tag-ul produsului.
+const CLIENT_TAG = "client";
 
-// Adaugă/actualizează cumpărătorul în MailerLite: grup Client + grup produs, ca activ.
-// Upsert-ul e non-destructiv: nu scoate abonatul din grupuri existente (ex. "Pixel vs Neuron").
-// status:"active" => fără email de confirmare (a plătit deja).
-async function addToMailerLite(email, firstName, productGroupId) {
-  const res = await fetch("https://connect.mailerlite.com/api/subscribers", {
+// Adaugă/actualizează cumpărătorul în Bento: tag "client" + tag-ul produsului.
+// Endpoint-ul batch/subscribers nu pornește flow-uri și nu trimite emailuri.
+// Tag-urile se adaugă peste cele existente (ex. "pixel-vs-neuron"), nu le înlocuiesc.
+async function addToBento(email, firstName, productTag) {
+  const auth = Buffer.from(
+    `${process.env.BENTO_PUBLISHABLE_KEY}:${process.env.BENTO_SECRET_KEY}`
+  ).toString("base64");
+  const url = `https://app.bentonow.com/api/v1/batch/subscribers?site_uuid=${encodeURIComponent(
+    process.env.BENTO_SITE_UUID
+  )}`;
+
+  const subscriber = { email, tags: `${CLIENT_TAG},${productTag}` };
+  if (firstName) subscriber.first_name = firstName;
+
+  const res = await fetch(url, {
     method: "POST",
     headers: {
-      Authorization: `Bearer ${process.env.MAILERLITE_API_KEY}`,
+      Authorization: `Basic ${auth}`,
       "Content-Type": "application/json",
       Accept: "application/json",
+      "User-Agent": "beldie-ro-stripe-webhook/1.0",
     },
-    body: JSON.stringify({
-      email,
-      fields: firstName ? { name: firstName } : undefined,
-      groups: [CLIENT_GROUP, productGroupId],
-      status: "active",
-    }),
+    body: JSON.stringify({ subscribers: [subscriber] }),
   });
 
-  if (!res.ok) {
-    throw new Error(`MailerLite ${res.status}: ${await res.text()}`);
+  const text = await res.text();
+  let data = {};
+  try {
+    data = JSON.parse(text);
+  } catch {}
+
+  if (!res.ok || (data && data.failed > 0)) {
+    throw new Error(`Bento ${res.status}: ${text}`);
   }
 }
 
@@ -202,12 +214,12 @@ Log out,
 Ștefan Beldie.`,
         });
 
-        // 6. Tag în MailerLite (izolat — un eșec aici NU oprește livrarea PDF-ului)
+        // 6. Tag în Bento (izolat — un eșec aici NU oprește livrarea PDF-ului)
         try {
           const firstName = customerName ? customerName.split(" ")[0] : "";
-          await addToMailerLite(customerEmail, firstName, product.group);
-        } catch (mlErr) {
-          console.error(`MailerLite tagging eșuat pentru ${customerEmail}:`, mlErr.message);
+          await addToBento(customerEmail, firstName, product.tag);
+        } catch (bentoErr) {
+          console.error(`Bento tagging eșuat pentru ${customerEmail}:`, bentoErr.message);
         }
 
         // 7. Marchează livrat (la final, ca un eșec mai sus să permită retry)
