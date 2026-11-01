@@ -36,9 +36,9 @@ De asemenea, mă confrunt destul de des cu urgențe din categoria "am probleme �
 
 Aici, nu mai e vorba de terapie.
 
-Respectivii vor doar să-mi prezinte situația relației lor, să înțeleg că iubita sau iubitul lor sunt altfel decât sunt alte femei sau alți bărbați și că deși există [ghiduri pe care le-am scris](https://www.fiibarbat.ro/ghidurile/) și care le-ar putea fi de ajutor, cazul lor particular e ceva care nu se încadrează în normă.
+Respectivii vor doar să-mi prezinte situația relației lor, să înțeleg că iubita sau iubitul lor sunt altfel decât sunt alte femei sau alți bărbați, iar cazul lor particular e ceva care nu se încadrează în normă.
 
-Totuși, experiența din cabinet și miile de mail-uri (exact, mii) pe care le-am primit de-a lungul anilor pe adresa site-ului [Fii bărbat!](https://www.fiibarbat.ro/) mi-au arătat că deși toată lumea susține că problema lor e altfel, realitatea indică aproape întotdeauna că problema lor e la fel ca problema majorității.
+Totuși, experiența din cabinet mi-a arătat că deși toată lumea susține că problema lor e altfel, realitatea indică aproape întotdeauna că problema lor e la fel ca problema majorității.
 
 Regret, dar în ciuda a ceea ce cultura Disney îți tot spune, viața oamenilor seamănă din extrem de multe puncte de vedere, inclusiv din perspectiva problemelor / dificultăților din relații.
 

@@ -129,7 +129,7 @@ Nu e obligatoriu ca acea activitate să fie una sofisticată, caz în care nici 
 
 De exemplu, ești pasionat de filme cu karate, așa că vezi o grămadă de filme cu karate.
 
-[Sau ești pasionat de filme prono](https://www.fiibarbat.ro/lasa-te-de-alba/), așa că vezi o grămadă de filme prono și te întrebi romantic dacă eroii vor rămâne împreună după ce el termină pe fața ei.
+Sau ești pasionat de filme prono, așa că vezi o grămadă de filme prono și te întrebi romantic dacă eroii vor rămâne împreună după ce el termină pe fața ei.
 
 Haha, nu te așteptai la așa ceva, nu?
 
